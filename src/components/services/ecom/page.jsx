@@ -27,7 +27,7 @@ import { ArrowRight, CheckCheck } from "lucide-react";
 import CountUp from "react-countup";
 import { useInView } from "react-intersection-observer";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import EcomSeoFaq from "@/app/faqhome/ecomservicesfaq/page";
+
 
 
 const EcomService = ({ service }) => {
@@ -455,7 +455,6 @@ We will build a scalable online store tailored to your brand and optimize your S
 
 <TestimonialCarousel />
 
-<EcomSeoFaq />
 
 
       <GoogleReview />
