@@ -1,8 +1,6 @@
 "use client";
 
 import * as React from "react";
-import { useState } from "react";
-import Link from "next/link";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -11,7 +9,6 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
-import { Button } from "@/components/ui/button"
 import GetSeoCost from "@/app/filloutcta/seocostcal/page";
 import SeoCostCalFaq from "@/app/faqhome/seocostcalfaq/page";
 
@@ -60,7 +57,7 @@ return (
         SEO is crucial for attracting your target audience and improving online visibility. However, predicting the exact investment required for SEO and the number of visitors you can expect from it can be complex. To assist you in understanding the costs involved, OrganicAds has developed an easy-to-use SEO Budget Calculator designed to simplify the process.
         </p>
         <p className="mb-3 text-justify">
-        The goal of this SEO cost calculator is to provide a clear estimate of your project's cost. It generates a monthly budget suggestion based on your requirements, along with an expected monthly traffic estimate, helping you plan your SEO investment effectively.
+        The goal of this SEO cost calculator is to provide a clear estimate of your projects cost. It generates a monthly budget suggestion based on your requirements, along with an expected monthly traffic estimate, helping you plan your SEO investment effectively.
         </p>
         <p className="mb-3 text-justify">
         Wondering how much SEO will cost and how to create a budget for it? Our SEO calculator offers a straightforward solution, helping you plan your SEO spending and set realistic goals for site traffic.
@@ -68,10 +65,10 @@ return (
 
         <h3 className="text-2xl font-medium mb-4 mt-8 text-center">How to Use the SEO Budget Calculator?   </h3>
         <p className="mb-3 text-justify">
-        If you're unsure about how much to allocate for SEO, rest assured that our SEO Budget Calculator makes the process simple and straightforward. While SEO budgeting isn't an exact science, this tool offers an easy and quick way to estimate costs. Simply input the required figures, and the calculator will provide you with an approximate cost, giving you a clear direction for your SEO strategy.
+        If you are unsure about how much to allocate for SEO, rest assured that our SEO Budget Calculator makes the process simple and straightforward. While SEO budgeting isnot an exact science, this tool offers an easy and quick way to estimate costs. Simply input the required figures, and the calculator will provide you with an approximate cost, giving you a clear direction for your SEO strategy.
         </p>
         <p className="mb-3 text-justify">
-        With this estimate, you can confidently plan your SEO budget and adjust your strategy accordingly. Whether you're just starting or refining your SEO efforts, OrganicAds' calculator is designed to provide you with valuable insights, helping you make informed decisions about your SEO investment.
+        With this estimate, you can confidently plan your SEO budget and adjust your strategy accordingly. Whether you are just starting or refining your SEO efforts, OrganicAds calculator is designed to provide you with valuable insights, helping you make informed decisions about your SEO investment.
         </p>
        
     </div>
@@ -98,7 +95,7 @@ return (
      
         <h3 className="text-2xl font-medium mb-4 text-center text-blue-500">How Much Should You Budget for SEO? </h3>
         <p className="mb-3 text-justify">
-        Determining the right amount to allocate for SEO depends on your business needs and goals. There isn't a one-size-fits-all answer, as every business has unique requirements. A useful approach is to continue investing in SEO until you see a significant return on investment (ROI). To get a clearer picture, calculate your cost per acquisition (CPA) and customer lifetime value (CLV). By understanding these metrics, you can evaluate how much value you're gaining from SEO efforts. At OrganicAds, we recommend using these figures to create a tailored SEO budget that drives the best results for your business.
+        Determining the right amount to allocate for SEO depends on your business needs and goals. There isnot a one-size-fits-all answer, as every business has unique requirements. A useful approach is to continue investing in SEO until you see a significant return on investment (ROI). To get a clearer picture, calculate your cost per acquisition (CPA) and customer lifetime value (CLV). By understanding these metrics, you can evaluate how much value you are gaining from SEO efforts. At OrganicAds, we recommend using these figures to create a tailored SEO budget that drives the best results for your business.
         </p>
     
         <h3 className="text-2xl font-medium mb-4 mt-8 text-center">Why Do You Need an SEO Price Calculator? </h3>
@@ -108,7 +105,7 @@ return (
        
         <h3 className="text-2xl font-medium mb-4 mt-8 text-center">How Much Does SEO Cost Per Keyword? </h3>
         <p className="mb-3 text-justify">
-        The cost of SEO per keyword varies based on several factors, including keyword difficulty and competition. The amount of time required for keyword analysis, strategy development, and prioritization will determine the actual cost. Due to these variables, it's challenging to provide a precise cost per keyword. However, you can use our SEO cost calculator to get a tailored estimate or contact OrganicAds for more detailed information about your specific SEO needs. We ensure transparency and help you understand the value of optimizing each keyword effectively.
+        The cost of SEO per keyword varies based on several factors, including keyword difficulty and competition. The amount of time required for keyword analysis, strategy development, and prioritization will determine the actual cost. Due to these variables, its challenging to provide a precise cost per keyword. However, you can use our SEO cost calculator to get a tailored estimate or contact OrganicAds for more detailed information about your specific SEO needs. We ensure transparency and help you understand the value of optimizing each keyword effectively.
         </p>
        
         <h3 className="text-2xl font-medium mb-4 mt-8 text-center">What to Expect After Submitting the SEO Price Calculator Form?  </h3>

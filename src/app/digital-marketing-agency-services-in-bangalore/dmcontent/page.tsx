@@ -9,7 +9,7 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import FeaturedOn from "@/app/featuredon/page";
 import { TestimonialCarousel } from "@/app/testimonials/page";
 
@@ -22,7 +22,7 @@ const DmContent = () => {
           alt: "Email Marketing",
           title: "Email Marketing",
           description:
-            "Email Marketing: Still the King of Leads & Conversions! Say goodbye to generic emails! At OrganicAds, we design personalized, results-driven email campaigns that keep your audience engaged. From captivating visuals and precise audience targeting to optimized strategies, our email marketing solutions ensure higher open rates, improved click-throughs, and maximum ROI. Boost your brand’s reach and conversions with expertly crafted email campaigns by OrganicAds.",
+            "Email Marketing: Still the King of Leads & Conversions! Say goodbye to generic emails! At OrganicAds, we design personalized, results-driven email campaigns that keep your audience engaged. From captivating visuals and precise audience targeting to optimized strategies, our email marketing solutions ensure higher open rates, improved click-throughs, and maximum ROI. Boost your brands reach and conversions with expertly crafted email campaigns by OrganicAds.",
         },
         {
             img: "https://res.cloudinary.com/s2ucdn/image/upload/v1734621893/marketing_kw2p5u.png",
@@ -36,7 +36,7 @@ const DmContent = () => {
             alt: "Search Engine Optimization (SEO)",
             title: "Search Engine Optimization (SEO)",
             description:
-              "A Stunning Website is Just the Start – Let’s Make it Visible! What good is a great website if it doesn’t attract visitors? Let OrganicAds optimize your site with proven SEO strategies to boost visibility and drive organic traffic that converts. Your audience is searching-let's make sure they find you!",
+              "A Stunning Website is Just the Start - Lets Make it Visible! What good is a great website if it doesnt attract visitors? Let OrganicAds optimize your site with proven SEO strategies to boost visibility and drive organic traffic that converts. Your audience is searching-lets make sure they find you!",
           },
           {
             img: "https://res.cloudinary.com/s2ucdn/image/upload/v1734623058/seo_1_rexyoq.png",
@@ -50,14 +50,14 @@ const DmContent = () => {
             alt: "Online Reputation Management",
             title: "Online Reputation Management",
             description:
-              "Build a Positive Brand Identity with Proactive Online Reputation Management Your brand's public perception is vital for its success. Our dedicated team actively monitors and responds to online feedback, ensuring your reputation remains favorable. By addressing reviews, comments, and social mentions, we help shape a strong, trusted identity that resonates with your audience and fosters long-term success.",
+              "Build a Positive Brand Identity with Proactive Online Reputation Management Your brands public perception is vital for its success. Our dedicated team actively monitors and responds to online feedback, ensuring your reputation remains favorable. By addressing reviews, comments, and social mentions, we help shape a strong, trusted identity that resonates with your audience and fosters long-term success.",
           },
           {
             img: "https://res.cloudinary.com/s2ucdn/image/upload/v1734701167/programming_pc8q53.png",
             alt: "Web Design & Web Development",
             title: "Web Design & Web Development",
             description:
-              "Elevate Your Online Presence with Stunning, High-Performance Websites Transform your brand's digital identity with SEO-optimized, result-driven websites designed to captivate and convert. Our team crafts powerful, brand-centric, and functional sites with the perfect blend of features to engage your audience and achieve your business goals. Drive more than clicks—drive results.",
+              "Elevate Your Online Presence with Stunning, High-Performance Websites Transform your brands digital identity with SEO-optimized, result-driven websites designed to captivate and convert. Our team crafts powerful, brand-centric, and functional sites with the perfect blend of features to engage your audience and achieve your business goals. Drive more than clicks—drive results.",
           },
       ];
 
@@ -95,13 +95,13 @@ const DmContent = () => {
 <div className="container mx-auto grid grid-cols-1 md:grid-cols-12 gap-6 items-center mt-10 mb-6 sm:mt-10 font-poppins max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
   
   <div className="md:col-span-12 text-justify px-2">
-    <h3 className="text-center text-md sm:text-md md:text-1xl lg:text-1xl font-medium mb-3">Tired of crickets? Let's get your audience buzzing, Grow your brand beyond borders
+    <h3 className="text-center text-md sm:text-md md:text-1xl lg:text-1xl font-medium mb-3">Tired of crickets? Lets get your audience buzzing, Grow your brand beyond borders
     </h3>
     <h2 className="text-center text-xl sm:text-xl md:text-2xl lg:text-2xl font-medium">
     Stop being invisible online-get your brand discovered with our powerful digital marketing strategies that drive real results.
     </h2>
     <p className="mt-4 text-gray-700">
-    In today’s fast-paced digital era, having a strong online presence is no longer optional-it’s essential for business growth. As the competition continues to grow, implementing effective digital marketing strategies is crucial to connecting with your target audience and achieving your goals. That’s where a trusted Digital Marketing Services Company in Bangalore can make all the difference. With proven expertise, we help businesses elevate their online visibility, engage their audience, and drive sustainable growth.
+    In todays fast-paced digital era, having a strong online presence is no longer optional-its essential for business growth. As the competition continues to grow, implementing effective digital marketing strategies is crucial to connecting with your target audience and achieving your goals. Thats where a trusted Digital Marketing Services Company in Bangalore can make all the difference. With proven expertise, we help businesses elevate their online visibility, engage their audience, and drive sustainable growth.
     </p>
     <h2 className="text-center text-xl sm:text-xl md:text-2xl lg:text-2xl font-medium mt-5">
     Why Digital Marketing is a Game-Changer
@@ -110,7 +110,7 @@ const DmContent = () => {
     Digital marketing has completely transformed how businesses connect with their audience. Unlike traditional marketing methods, it allows you to reach a broader audience with measurable results at a significantly lower cost. From boosting brand awareness to driving website traffic or generating qualified leads, digital marketing opens doors to endless opportunities tailored to your specific objectives.
     </p>
     <p className="mt-4 text-gray-700">
-    Whether you're looking to build a solid online presence, increase engagement, or scale your business globally, our custom digital marketing solutions can help you thrive in the competitive online landscape.
+    Whether youre looking to build a solid online presence, increase engagement, or scale your business globally, our custom digital marketing solutions can help you thrive in the competitive online landscape.
     </p>
    
   </div>

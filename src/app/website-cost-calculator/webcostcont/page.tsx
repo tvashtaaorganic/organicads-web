@@ -53,7 +53,7 @@ const WebCostContents = () => {
               <p className="text-gray-600 mb-4 text-justify">
                 Looking to breathe new life into your brand? The leading SEO
                 agency in Ahmedabad, OrganicAds, is here to help. With over six
-                years of expertise, we’ve gained valuable insights to drive
+                years of expertise, we have gained valuable insights to drive
                 exceptional results. When you partner with us, you can rest
                 easy, knowing your SEO and digital marketing needs are in the
                 hands of experts. We specialize in search engine optimization
@@ -61,8 +61,8 @@ const WebCostContents = () => {
                 your brand's online presence.
               </p>
               <p className="text-gray-600 text-justify">
-                When it comes to website design, a common question is, "How much
-                does a website cost in Bangalore?" The answer depends on the
+                When it comes to website design, a common question is, How much
+                does a website cost in Bangalore? The answer depends on the
                 size, features, and complexity of the website. To help you get
                 an idea, our website cost estimator provides an accurate
                 estimate tailored to your needs. Partner with OrganicAds and
@@ -82,7 +82,7 @@ const WebCostContents = () => {
               </h3>
               <p className="text-gray-700 mb-4 text-justify">
                 Determining the exact cost of a website depends on understanding
-                the client’s specific needs and goals. Your website budget
+                the clients specific needs and goals. Your website budget
                 should align with its purpose and the features you require.
                 Basic websites are cost-effective and ideal for starting out,
                 while advanced, feature-rich sites require greater expertise
@@ -184,7 +184,7 @@ const WebCostContents = () => {
                 or WooCommerce.
               </p>
               <p className="text-gray-700 mb-4 text-justify">
-                If you're searching for a reliable and affordable website
+                If you are searching for a reliable and affordable website
                 solution, look no further than OrganicAds. With over six years
                 of experience, we have assisted numerous businesses and
                 organizations globally in achieving their website goals. Our

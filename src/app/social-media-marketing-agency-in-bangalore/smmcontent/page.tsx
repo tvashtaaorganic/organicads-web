@@ -9,8 +9,7 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
-import Image from "next/image";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import FeaturedOn from "@/app/featuredon/page";
 import { TestimonialCarousel } from "@/app/testimonials/page";
 import Link from "next/link";
@@ -34,14 +33,14 @@ const SmmContent = () => {
             alt: "Instagram Marketing Services",
             title: "Instagram Marketing Services",
             description:
-              "If your Instagram posts aren’t driving engagement, it’s time to revamp your strategy with our expert Instagram Marketing services. We help your brand stand out on Instagram and connect with the right audience. Our social media marketing team will craft tailored strategies to bring your brand to life, increase visibility, and boost interaction. Whether it's organic growth or running targeted ads, we ensure your brand gains the attention it deserves on Instagram. Let’s work together to elevate your Instagram presence and achieve your marketing goals.",
+              "If your Instagram posts are not driving engagement, its time to revamp your strategy with our expert Instagram Marketing services. We help your brand stand out on Instagram and connect with the right audience. Our social media marketing team will craft tailored strategies to bring your brand to life, increase visibility, and boost interaction. Whether it's organic growth or running targeted ads, we ensure your brand gains the attention it deserves on Instagram. Lets work together to elevate your Instagram presence and achieve your marketing goals.",
           },
           {
             img: "https://res.cloudinary.com/s2ucdn/image/upload/v1735058604/twitter_cgdud4.png",
             alt: "Twitter Marketing Services",
             title: "Twitter Marketing Services",
             description:
-              "Unlock the power of Twitter with our customized Twitter Marketing services. Whether you’re looking to boost brand awareness or drive engagement, we craft strategies tailored to your business goals. Our team specializes in both organic and paid Twitter campaigns, ensuring your content reaches the right audience. Want to go viral or trend on Twitter? We’ll help you create impactful campaigns that capture attention and spark conversation. Let’s make your brand a trending topic today!",
+              "Unlock the power of Twitter with our customized Twitter Marketing services. Whether youre looking to boost brand awareness or drive engagement, we craft strategies tailored to your business goals. Our team specializes in both organic and paid Twitter campaigns, ensuring your content reaches the right audience. Want to go viral or trend on Twitter? Well help you create impactful campaigns that capture attention and spark conversation. Lets make your brand a trending topic today!",
           },
           {
             img: "https://res.cloudinary.com/s2ucdn/image/upload/v1735058746/linkedin_jj7m4f.png",

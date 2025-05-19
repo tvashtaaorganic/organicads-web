@@ -117,7 +117,7 @@ const PpcContent = () => {
 
           </h2>
           <p className="mt-4 text-gray-700">
-          Achieving quick and measurable results requires expertise, and Pay Per Click advertising is a powerful tool in any brand's marketing strategy. With the right PPC strategy, you can ensure maximum visibility and ROI. If you're looking for a skilled team to manage your campaigns, our PPC agency in Bangalore is here to help.
+          Achieving quick and measurable results requires expertise, and Pay Per Click advertising is a powerful tool in any brand's marketing strategy. With the right PPC strategy, you can ensure maximum visibility and ROI. If you are looking for a skilled team to manage your campaigns, our PPC agency in Bangalore is here to help.
           </p>
           <p className="mt-4 text-gray-700">
           At OrganicAds, we serve as your local PPC experts, offering tailored campaign management to ensure you get the most from your advertising spend. From keyword targeting to ad copy creation, our team ensures that your ads drive relevant traffic, increase conversions, and help your business grow.
@@ -179,7 +179,7 @@ const PpcContent = () => {
                 </CardTitle>
               </CardHeader>
               <p className="text-gray-700 text-justify">
-              YouTube Ads management is a specialized service chosen by only a select few in the industry. We craft innovative strategies tailored to your brand, ensuring they deliver results more effectively than any methods you’ve tried before. Let us help you make the most of YouTube’s vast audience with impactful ad campaigns.
+              YouTube Ads management is a specialized service chosen by only a select few in the industry. We craft innovative strategies tailored to your brand, ensuring they deliver results more effectively than any methods you have tried before. Let us help you make the most of YouTubes vast audience with impactful ad campaigns.
               </p>
             </div>
           </CardContent>

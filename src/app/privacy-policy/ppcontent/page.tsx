@@ -70,7 +70,7 @@ const PpContent = () => {
         <p>OrganicAds takes all possible efforts to protect users personal data. At the same time, we expect our users to provide information only if needed. We request our users not to disclose their personal information unless required. We will not be responsible for the data given to any third-party vendors through our website.</p>
         
         <h3 className="text-xl font-semibold mt-4 mb-2">Contact Us</h3>
-        <p>Any user might have any query or question with our privacy policy. In such case, he/she should <a href="/contactus" className="text-blue-600 underline">contact us</a> first. Our contact details are available on our website.</p>
+        <p>Any user might have any query or question with our privacy policy. In such case, he/she should contact us first. Our contact details are available on our website.</p>
         
         <h3 className="text-xl font-semibold mt-4 mb-2">Notification of Changes</h3>
         <p>Along with this privacy policy, we hold all rights to make any change in the policy. No prior notice to the users is required for this. The users require reading our privacy policy before using our website. When our users or clients provide us data, they agree with this policy. If not agree with our privacy policy, the user should not share their information and use our website.</p>
@@ -107,11 +107,11 @@ const PpContent = () => {
         <ul className="list-disc pl-6">
           <li>Users will not use our website for any unlawful purpose.</li>
           <li>Users will not use our website to disable, damage, and impair it in any way.</li>
-          <li>All the information provided to us should be genuine and your own. You will not present any third party’s information to us.</li>
+          <li>All the information provided to us should be genuine and your own. You will not present any third partys information to us.</li>
           <li>The user will not gain illegal access to our account and system.</li>
         </ul>
         <h3 className="text-xl font-semibold mt-4 mb-2">System and Data Security</h3>
-        <p>We keep our website well secured to protect our user’s data. But we have no liability if any damage and loss of data happens to the users system while downloading or uploading any material on our site.</p>
+        <p>We keep our website well secured to protect our users data. But we have no liability if any damage and loss of data happens to the users system while downloading or uploading any material on our site.</p>
         <h3 className="text-xl font-semibold mt-4 mb-2">Website Content </h3>
         <p>All the content present on our website is our exclusive right. No one can copy and reproduce our content without our written permission. This may account for the violation of copyright laws. </p>
         <h3 className="text-xl font-semibold mt-4 mb-2">Jurisdiction</h3>
@@ -121,7 +121,6 @@ const PpContent = () => {
         <p>The nature of our services allows us to hold the right to use our clients website. It will be with the clients consent and authorized access. We use our clients websites for providing various services like web design, SEO, web development, and marketing. We stop using our clients websites after project completion. Unless the client specifies so, we do not use their websites.</p>
         <p className="mt-2">OrganicAds strictly follows ethical SEO practices. It will provide services with its own desire. The company is not liable to entertain any undesirable service request from anyone.</p>
         
-
 
       </div>
     </div>

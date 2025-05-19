@@ -10,7 +10,6 @@ import {
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
 import { TestimonialCarousel } from "@/app/testimonials/page";
-import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
@@ -88,7 +87,7 @@ const SoftwareContents = () => {
           CRM Software Development
           </h2>
           <p className="mt-4 text-gray-700">
-          Maximize your ROI with a tailored Customer Relationship Management (CRM) system. At OrganicAds, we specialize in developing customized CRM solutions that align perfectly with your business needs. Whether you're looking for automated CRM software or a ready-to-use CRM demo, our expert developers can help you create a powerful CRM system. If you’ve been searching for a trusted CRM software development company in Bangalore, look no further. Partner with OrganicAds for cutting-edge CRM solutions that enhance customer relationships and drive business growth. Contact us today to learn more!
+          Maximize your ROI with a tailored Customer Relationship Management (CRM) system. At OrganicAds, we specialize in developing customized CRM solutions that align perfectly with your business needs. Whether you are looking for automated CRM software or a ready-to-use CRM demo, our expert developers can help you create a powerful CRM system. If you have been searching for a trusted CRM software development company in Bangalore, look no further. Partner with OrganicAds for cutting-edge CRM solutions that enhance customer relationships and drive business growth. Contact us today to learn more!
          </p>
         </div>
 </div>
@@ -110,7 +109,7 @@ const SoftwareContents = () => {
           Python Development Services
           </h2>
           <p className="mt-4 text-gray-700">
-          Python is a powerful yet complex programming language that requires expertise to master. At OrganicAds, we specialize in Python development services, offering unmatched expertise in the field. Our dedicated teams of Python developers are highly skilled and experienced, delivering top-notch solutions tailored to your needs. Whether you're building web applications, data analytics solutions, or automation tools, OrganicAds ensures seamless, high-performance Python development that helps your business grow. Partner with us for reliable, scalable Python development services and unlock the full potential of your project. Contact us today to get started!
+          Python is a powerful yet complex programming language that requires expertise to master. At OrganicAds, we specialize in Python development services, offering unmatched expertise in the field. Our dedicated teams of Python developers are highly skilled and experienced, delivering top-notch solutions tailored to your needs. Whether you are building web applications, data analytics solutions, or automation tools, OrganicAds ensures seamless, high-performance Python development that helps your business grow. Partner with us for reliable, scalable Python development services and unlock the full potential of your project. Contact us today to get started!
          </p>
         </div>
 </div>
@@ -132,7 +131,7 @@ const SoftwareContents = () => {
           Django Development Services
           </h2>
           <p className="mt-4 text-gray-700">
-          Looking for a leading Django development company in Bangalore? At OrganicAds, we specialize in providing top-quality Django development services tailored to your unique needs. Our expert team of Django developers ensures rapid development, clean code, and practical designs that deliver the results you desire. Whether you're building scalable web applications or need customized solutions, we offer the most affordable Django development services. Trust OrganicAds to bring your project to life with precision and efficiency. Contact us now for a free quote and experience the best in Django development.
+          Looking for a leading Django development company in Bangalore? At OrganicAds, we specialize in providing top-quality Django development services tailored to your unique needs. Our expert team of Django developers ensures rapid development, clean code, and practical designs that deliver the results you desire. Whether you are building scalable web applications or need customized solutions, we offer the most affordable Django development services. Trust OrganicAds to bring your project to life with precision and efficiency. Contact us now for a free quote and experience the best in Django development.
          </p>
         </div>
 </div>

@@ -98,7 +98,7 @@ const MobileAppContents = () => {
           Android App Development Services
           </h2>
           <p className="mt-4 text-gray-700">
-          Ready to build your first Android app? At OrganicAds, our skilled professionals and software engineers bring years of experience in developing user-friendly, high-performance Android apps. We specialize in delivering tailored solutions for both small and large businesses, offering top-notch Android app development services. Whether you're looking to create a business app or need a custom Android solution, we are here to help. If you're searching for a reliable Android app development company in Bangalore, look no further. Contact us today for a free quote and get started on your app development journey!
+          Ready to build your first Android app? At OrganicAds, our skilled professionals and software engineers bring years of experience in developing user-friendly, high-performance Android apps. We specialize in delivering tailored solutions for both small and large businesses, offering top-notch Android app development services. Whether you are looking to create a business app or need a custom Android solution, we are here to help. If you're searching for a reliable Android app development company in Bangalore, look no further. Contact us today for a free quote and get started on your app development journey!
          </p>
         
         </div>
@@ -142,7 +142,7 @@ const MobileAppContents = () => {
           Hybrid App Development Services
           </h2>
           <p className="mt-4 text-gray-700">
-          OrganicAds offers exceptional Hybrid App Development services, providing you with access to experienced UX designers and visual designers who specialize in mobile web development technologies. Our robust, high-performing hybrid app solutions are designed to meet all your business needs. If you're searching for an affordable app developer in Bangalore, trust our cross-functional team of experts to deliver the best results. With OrganicAds, you get the perfect blend of performance, design, and cost-effective development for your hybrid mobile app. Contact us today for a free consultation!.
+          OrganicAds offers exceptional Hybrid App Development services, providing you with access to experienced UX designers and visual designers who specialize in mobile web development technologies. Our robust, high-performing hybrid app solutions are designed to meet all your business needs. If you are searching for an affordable app developer in Bangalore, trust our cross-functional team of experts to deliver the best results. With OrganicAds, you get the perfect blend of performance, design, and cost-effective development for your hybrid mobile app. Contact us today for a free consultation!.
          </p>
         </div>
 </div>

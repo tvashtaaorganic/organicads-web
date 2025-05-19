@@ -85,7 +85,7 @@ const OrmRepContent = () => {
           Brand Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          Worried about your brand’s online reputation? Our online reputation management services help you monitor and manage your brand on social media platforms. We protect your business from negative feedback and amplify positive reviews, ensuring that your reputation stays strong and your customers trust you.
+          Worried about your brands online reputation? Our online reputation management services help you monitor and manage your brand on social media platforms. We protect your business from negative feedback and amplify positive reviews, ensuring that your reputation stays strong and your customers trust you.
          </p>
         </div>
 </div>
@@ -129,7 +129,7 @@ const OrmRepContent = () => {
           Hotel Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          Hotel reputation management is essential in today's competitive market. It’s not just about marketing, but about building trust with customers. With the rise of social media, consumers are more discerning than ever. Our hotel reputation management services ensure that your brand stands out positively, helping you maintain strong relationships with stakeholders and guests alike.
+          Hotel reputation management is essential in today's competitive market. Its not just about marketing, but about building trust with customers. With the rise of social media, consumers are more discerning than ever. Our hotel reputation management services ensure that your brand stands out positively, helping you maintain strong relationships with stakeholders and guests alike.
          </p>
         </div>
 </div>
@@ -261,7 +261,7 @@ const OrmRepContent = () => {
           Down Negative Results
           </h2>
           <p className="mt-4 text-gray-700">
-          In India, reputation management services are gaining momentum, with businesses increasingly recognizing their importance. These services focus on managing and improving online reputation by addressing negative results. By utilizing expert online reputation and digital marketing strategies, we help businesses minimize the impact of negative feedback, boost sales, and create a positive perception. With the right approach, you can protect your brand’s image and ensure long-term success. Get these services today to unlock the full potential of your business.
+          In India, reputation management services are gaining momentum, with businesses increasingly recognizing their importance. These services focus on managing and improving online reputation by addressing negative results. By utilizing expert online reputation and digital marketing strategies, we help businesses minimize the impact of negative feedback, boost sales, and create a positive perception. With the right approach, you can protect your brands image and ensure long-term success. Get these services today to unlock the full potential of your business.
          </p>
         </div>
 </div>

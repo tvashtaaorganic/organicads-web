@@ -98,7 +98,7 @@ const WebDevContents = () => {
           Wordpress Web Development
           </h2>
           <p className="mt-4 text-gray-700">
-          In today’s competitive market, a great website is essential for business growth. Your website represents more than just images and content—it’s a powerful tool that defines the future of your business. At OrganicAds, we offer Custom WordPress Web Development Services tailored to your unique needs. As a leading Web Development Company in Bangalore, we also specialize in plugin development to enhance your website’s functionality and deliver outstanding results. Trust us to build a website that sets your business apart and drives success.
+          In todays competitive market, a great website is essential for business growth. Your website represents more than just images and content—its a powerful tool that defines the future of your business. At OrganicAds, we offer Custom WordPress Web Development Services tailored to your unique needs. As a leading Web Development Company in Bangalore, we also specialize in plugin development to enhance your websites functionality and deliver outstanding results. Trust us to build a website that sets your business apart and drives success.
          </p>
         
         </div>

@@ -18,12 +18,12 @@ const faqData = [
   {
     question: "Why Should I Invest in Social Media Marketing?",
     answer:
-      "Social media is a powerful tool for building a community of potential customers and increasing brand awareness. It facilitates meaningful conversations, helping businesses connect with their audience on a personal level, which can lead to increased trust and sales. Investing in social media marketing allows you to effectively target your audience with promoted posts and display ads, enabling retargeting and brand awareness campaigns. It’s an essential strategy for engaging with your audience, boosting sales, and driving long-term business growth.",
+      "Social media is a powerful tool for building a community of potential customers and increasing brand awareness. It facilitates meaningful conversations, helping businesses connect with their audience on a personal level, which can lead to increased trust and sales. Investing in social media marketing allows you to effectively target your audience with promoted posts and display ads, enabling retargeting and brand awareness campaigns. Its an essential strategy for engaging with your audience, boosting sales, and driving long-term business growth.",
   },
   {
     question: "What Does a Social Media Marketing Package Include?",
     answer:
-      "A social media marketing package typically includes creating diverse content such as graphics, videos, text posts, and engaging captions. It may also cover advanced services like strategy consulting, influencer collaborations, and community management to foster audience engagement. These packages are tailored to enhance your brand’s online presence and drive meaningful results.",
+      "A social media marketing package typically includes creating diverse content such as graphics, videos, text posts, and engaging captions. It may also cover advanced services like strategy consulting, influencer collaborations, and community management to foster audience engagement. These packages are tailored to enhance your brands online presence and drive meaningful results.",
   },
   {
     question: "Why Is Social Media Marketing Important for Brands?",
@@ -42,7 +42,7 @@ export function SmFaqPackages() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
-  const rightFaqs = faqData.slice(midIndex);
+ // const rightFaqs = faqData.slice(midIndex);
 
   return (
     <section id="faq-section" className="py-5 gap-6 bg-white font-poppins relative">

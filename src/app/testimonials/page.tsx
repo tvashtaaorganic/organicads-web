@@ -44,14 +44,14 @@ const testimonials = [
     post: "Founder, Sri Lalitha Travels",
     title: "SEO & PPC Services",
     feedback:
-      "Great knowledge of Google Ads! I'm really happy with my Google Ads results, and the SEO has been amazing too. My business page reached the first page in just 1 months, showing 100% growth. Targeted 20k Keywords.. Thanks to Mr. Srikanth and the team!",
+      "Great knowledge of Google Ads! Im really happy with my Google Ads results, and the SEO has been amazing too. My business page reached the first page in just 1 months, showing 100% growth. Targeted 20k Keywords.. Thanks to Mr. Srikanth and the team!",
   },
   {
     name: "Anchala G",
     post: "Manager, Localaids, Bangalore",
     title: "Website Design & SEO Services",
     feedback:
-      "An incredibly talented and friendly team. If you're looking to take your business to the next level with amazing visibility, OrganicAds is the way to go...",
+      "An incredibly talented and friendly team. If you are looking to take your business to the next level with amazing visibility, OrganicAds is the way to go...",
   },
 ];
 

@@ -88,10 +88,10 @@ const WebDesignContent = () => {
           Creative Web Design Company in Bangalore
           </h2>
           <p className="mt-4 text-gray-700">
-          Your website serves as your online identity, and it should be one-of-a-kind. It doesn't need to resemble anything else out there. At OrganicAds, we understand the significance of a business website and provide Creative Website Design Services tailored to your digital needs. As one of the best web design companies in Bangalore, we cater to businesses across various industries.
+          Your website serves as your online identity, and it should be one-of-a-kind. It doesnot need to resemble anything else out there. At OrganicAds, we understand the significance of a business website and provide Creative Website Design Services tailored to your digital needs. As one of the best web design companies in Bangalore, we cater to businesses across various industries.
          </p>
          <p className="mt-4 text-gray-700">
-         Our clients range from small startups to large enterprises. Whether you're launching a new website or looking to revamp your existing one, we are here to be your trusted web development partner.
+         Our clients range from small startups to large enterprises. Whether you are launching a new website or looking to revamp your existing one, we are here to be your trusted web development partner.
          </p>
          <Link href="/website-cost-calculator" passHref>
             <Button className="mt-5 inline-flex justify-center items-center rounded-lg text-sm font-semibold px-4 bg-slate-900 text-white hover:bg-slate-700 pointer-events-auto">
@@ -105,7 +105,7 @@ const WebDesignContent = () => {
 <section className="bg-white text-black py-12">
       <div className="container mx-auto px-6 max-w-7xl">
         <div className="text-center mb-10">
-          <h3 className="text-2xl sm:text-2xl font-medium">Why We're the Top Website Designing Company in Bangalore?
+          <h3 className="text-2xl sm:text-2xl font-medium">Why We are the Top Website Designing Company in Bangalore?
           </h3>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-8">
@@ -208,7 +208,7 @@ const WebDesignContent = () => {
           Customized Web Design
           </h2>
           <p className="mt-4 text-white">
-          At OrganicAds, we specialize in custom website design tailored to reflect your business's unique identity. Our team works closely with you to understand your vision and create a website that perfectly represents your brand and values. Whether you're a startup or an established company, our custom web design services ensure that your online presence is not only visually stunning but also aligned with your business goals. Let us bring your ideas to life with a website designed to make a lasting impact.
+          At OrganicAds, we specialize in custom website design tailored to reflect your business unique identity. Our team works closely with you to understand your vision and create a website that perfectly represents your brand and values. Whether you are a startup or an established company, our custom web design services ensure that your online presence is not only visually stunning but also aligned with your business goals. Let us bring your ideas to life with a website designed to make a lasting impact.
          </p>
         </div>
 </div>
@@ -252,7 +252,7 @@ const WebDesignContent = () => {
           Branding, Stationery & Graphic Design
           </h2>
           <p className="mt-4 text-white">
-          Branding is more than just a logo—it’s the visual identity that represents your business. At OrganicAds, we specialize in creating a cohesive and distinct brand identity that includes everything from logos, packaging, color schemes, to taglines. As a trusted graphic design company in Bangalore, we ensure all these elements come together to form a powerful and memorable brand image. Whether you're a startup or an established organization, we provide comprehensive branding and design services to help your business stand out and make a lasting impression.
+          Branding is more than just a logo—its the visual identity that represents your business. At OrganicAds, we specialize in creating a cohesive and distinct brand identity that includes everything from logos, packaging, color schemes, to taglines. As a trusted graphic design company in Bangalore, we ensure all these elements come together to form a powerful and memorable brand image. Whether you are a startup or an established organization, we provide comprehensive branding and design services to help your business stand out and make a lasting impression.
          </p>
         </div>
 </div>

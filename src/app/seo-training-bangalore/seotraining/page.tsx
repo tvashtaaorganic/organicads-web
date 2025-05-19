@@ -253,7 +253,7 @@ const SeoTraningContent = () => {
               importance of internal linking, link-building techniques, and how
               to analyze and improve links for better SEO performance. With our
               expert training, you will understand how search engines work,
-              conduct effective keyword research, and improve your website’s
+              conduct effective keyword research, and improve your websites
               search engine ranking. <br />
               <br />
               Our goal is to turn you into one of the best SEO professionals in

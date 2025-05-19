@@ -3,6 +3,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation"; // Use the Next.js router
+import Image from "next/image";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -54,11 +55,14 @@ export default function LoginPage() {
   return (
     <div className="flex flex-col gap-6">
       <Card>
-      <img
-          src="https://res.cloudinary.com/s2ucdn/image/upload/v1734515561/organicads-logo_n5yg79.png"
-          alt="OrganicAds Logo"
-          className="h-10 w-auto mb-5 mt-5 justify-self-center"
-        />
+     
+        <Image
+  src="https://res.cloudinary.com/s2ucdn/image/upload/v1734515561/organicads-logo_n5yg79.png"
+  alt="OrganicAds Logo"
+  width={150} // Adjust based on your logo's actual width
+  height={40} // Matches Tailwind's h-10 (40px)
+  className="mb-5 mt-5 mx-auto" // Centered with margins; removed h-10 and w-auto
+/>
         <CardHeader>
           <CardTitle className="text-2xl">Login</CardTitle>
           <CardDescription>

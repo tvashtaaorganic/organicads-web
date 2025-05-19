@@ -58,7 +58,7 @@ const services = [
           alt: "Boost Your Visibility with Local SEO Services",
           title: "Boost Your Visibility with Local SEO Services",
           description:
-            "Local SEO is the key to connecting with customers in your area. It's a powerful method to promote your business online and ensure you appear prominently in local searches. As local SEO experts, we implement tailored strategies to rank your website in your target region, driving foot traffic and boosting leads. Let us help your business thrive in your community!.",
+            "Local SEO is the key to connecting with customers in your area. Its a powerful method to promote your business online and ensure you appear prominently in local searches. As local SEO experts, we implement tailored strategies to rank your website in your target region, driving foot traffic and boosting leads. Let us help your business thrive in your community!.",
         },
         {
           img: "https://res.cloudinary.com/s2ucdn/image/upload/v1735048921/online-shop_aztqib.png",
@@ -80,7 +80,7 @@ const seoProcessSteps = [
   {
     title: "SEO Audit",
     description:
-      "Before starting any on-page or off-page SEO activities, we conduct an advanced SEO audit to identify your website's strengths and areas for improvement. Our audit reports are generated using globally recognized tools, ensuring accuracy and actionable insights. Partner with us to lay a solid foundation for your SEO strategy and achieve measurable results.",
+      "Before starting any on-page or off-page SEO activities, we conduct an advanced SEO audit to identify your websites strengths and areas for improvement. Our audit reports are generated using globally recognized tools, ensuring accuracy and actionable insights. Partner with us to lay a solid foundation for your SEO strategy and achieve measurable results.",
     imgSrc: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742915407/initial-audit-icn_1_nllayy.svg",
   },
   {
@@ -92,7 +92,7 @@ const seoProcessSteps = [
   {
     title: "Competitor Analysis",
     description:
-      "We constantly track your competitors' strategies to keep you ahead in the game. By monitoring their SEO performance daily, we identify opportunities to outshine them and refine your strategy for better rankings and visibility. Beat the competition with data-driven insights and a proactive approach.",
+      "We constantly track your competitors strategies to keep you ahead in the game. By monitoring their SEO performance daily, we identify opportunities to outshine them and refine your strategy for better rankings and visibility. Beat the competition with data-driven insights and a proactive approach.",
     imgSrc: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742915405/comptitor-analysis_vzlrkt.svg",
   },
   {
@@ -110,19 +110,19 @@ const seoProcessSteps = [
   {
     title: "Off-Page SEO",
     description:
-      "Our expert off-page SEO team focuses on high-quality link building, blog posting, and forum engagement to enhance your website's authority. These strategies improve your website's credibility, drive organic traffic, and help you rank higher on search engines.",
+      "Our expert off-page SEO team focuses on high-quality link building, blog posting, and forum engagement to enhance your websites authority. These strategies improve your website's credibility, drive organic traffic, and help you rank higher on search engines.",
     imgSrc: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742915405/link-building_1_nabrig.svg",
   },
   {
     title: "Content Strategy",
     description:
-      "We regularly update content strategies based on your website's search engine performance, ensuring optimal results. By refining and improving your content, we help your site stay competitive and continue to rank higher on search engines.",
+      "We regularly update content strategies based on your websites search engine performance, ensuring optimal results. By refining and improving your content, we help your site stay competitive and continue to rank higher on search engines.",
     imgSrc: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742915405/content-strategy_a9drjx.svg",
   },
   {
     title: "SEO Reporting",
     description:
-      "Receive detailed monthly SEO reports highlighting both on-page and off-page activities, along with your website's current search engine rankings. Stay informed on the progress and effectiveness of your SEO strategy for continuous growth and better visibility.",
+      "Receive detailed monthly SEO reports highlighting both on-page and off-page activities, along with your websites current search engine rankings. Stay informed on the progress and effectiveness of your SEO strategy for continuous growth and better visibility.",
     imgSrc: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742915405/reporting-and-tracking_1_oevqdn.svg",
   },
 ];
@@ -174,7 +174,7 @@ const seoProcessSteps = [
      Professional SEO Services in Bangalore to Elevate Your Business
     </h2>
     <p className="mt-4 text-gray-700">
-      Having a website without search engine optimization is like opening a shop and not telling anyone about it. In today's digital era, if your business lacks a strong online presence, you miss out on connecting with a larger audience of potential customers. Opting for a comprehensive Digital Marketing and SEO strategy is the key to staying ahead of the competition.
+      Having a website without search engine optimization is like opening a shop and not telling anyone about it. In todays digital era, if your business lacks a strong online presence, you miss out on connecting with a larger audience of potential customers. Opting for a comprehensive Digital Marketing and SEO strategy is the key to staying ahead of the competition.
     </p>
     <p className="mt-4 text-gray-700">
       OrganicAds is a trusted SEO company in Bangalore, powered by a team of experienced SEO experts and analysts. Our tailored SEO packages cater to businesses of all sizes, ensuring effective results regardless of scale. Partner with a professional team known for delivering top-notch SEO services, driving consistent growth, and boosting online visibility for years. Get ready to transform your business today!

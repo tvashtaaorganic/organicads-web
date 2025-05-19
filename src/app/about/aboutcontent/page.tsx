@@ -45,13 +45,13 @@ const AboutContent = () => {
   
   <div className="md:col-span-12 text-justify px-2">
     <h2 className="text-center text-xl sm:text-xl md:text-2xl lg:text-2xl font-medium">
-    Bangalore's Digital Marketing Experts: Boost Your Business with Results-Driven Strategies
+    Bangalores Digital Marketing Experts: Boost Your Business with Results-Driven Strategies
     </h2>
     <p className="mt-4 text-gray-700">
     At OrganicAds, our entire team is focused on one mission - delivering the best Digital Marketing Services. We are a technology-driven digital marketing company with a deep understanding of what newly established businesses need. We achieve this efficiently by creating stunning websites and implementing effective digital marketing strategies. Consider us your extended marketing team, always ready to deliver high-quality digital identities.
     </p>
     <p className="mt-4 text-gray-700">
-    OrganicAds' powerful team consists of carefully selected experts from website development and digital marketing fields. Each member supports one another, fostering growth and learning, ensuring that we continuously provide you with the best services. Every day, we transform businesses, helping them adapt to the ever-evolving digital marketing landscape. We assist brands in evolving for sustained growth.
+    OrganicAds powerful team consists of carefully selected experts from website development and digital marketing fields. Each member supports one another, fostering growth and learning, ensuring that we continuously provide you with the best services. Every day, we transform businesses, helping them adapt to the ever-evolving digital marketing landscape. We assist brands in evolving for sustained growth.
     </p>
    
    

@@ -18,12 +18,12 @@ const faqData = [
   {
     question: "How Long Does It Typically Take to Create a Website for a Small Company?",
     answer:
-      "At OrganicAds, the typical timeline to complete a website for a small business is around 15 days. The exact duration depends on our current workload and the complexity of the project. After receiving all the necessary content, we aim to have the first draft ready within 5 days. We’ll review the website with you, noting any changes or additions you'd like. Once you’re satisfied with the final version, we’ll submit it to Google and upload it to your domain. Choose OrganicAds for efficient and professional website design that gets your business online quickly and effectively.",
+      "At OrganicAds, the typical timeline to complete a website for a small business is around 15 days. The exact duration depends on our current workload and the complexity of the project. After receiving all the necessary content, we aim to have the first draft ready within 5 days. Well review the website with you, noting any changes or additions you'd like. Once youre satisfied with the final version, well submit it to Google and upload it to your domain. Choose OrganicAds for efficient and professional website design that gets your business online quickly and effectively.",
   },
   {
     question: "Using a Mobile Device, Will My New Website Be Viewable?",
     answer:
-      "Yes, absolutely! At OrganicAds, all of our website packages are fully responsive, meaning your new website will be viewable on any device, whether it’s a smartphone, tablet, laptop, or desktop.We ensure that your website is optimized for all screen sizes, providing a seamless experience for visitors on any device. Choose OrganicAds for mobile-friendly website design that enhances your business’s online presence.",
+      "Yes, absolutely! At OrganicAds, all of our website packages are fully responsive, meaning your new website will be viewable on any device, whether its a smartphone, tablet, laptop, or desktop.We ensure that your website is optimized for all screen sizes, providing a seamless experience for visitors on any device. Choose OrganicAds for mobile-friendly website design that enhances your businesss online presence.",
   },
   {
     question: "Why is the Price of Developing a Website in India Determinative?",
@@ -33,12 +33,12 @@ const faqData = [
   {
     question: "I Would Like to Revamp My Current Website. Assist Me, Please?",
     answer:
-      "Absolutely! At OrganicAds, revamping websites is one of our specialties. Just let us know your requirements, and we’ll provide a custom quote along with innovative design suggestions that incorporate the latest features to enhance your site’s performance and user experience.Trust OrganicAds for website redesign services that elevate your online presence with a fresh, modern look.",
+      "Absolutely! At OrganicAds, revamping websites is one of our specialties. Just let us know your requirements, and well provide a custom quote along with innovative design suggestions that incorporate the latest features to enhance your sites performance and user experience.Trust OrganicAds for website redesign services that elevate your online presence with a fresh, modern look.",
   },
   {
     question: "Would You Mind If I Viewed Some of Your Previous Work?",
     answer:
-      "Not at all! We’d be happy to showcase our work. You can explore our online portfolio to view some of our best website design projects and see how we’ve helped businesses like yours succeed online. Visit OrganicAds’ portfolio for a glimpse of our high-quality web design services and how we can transform your website.",
+      "Not at all! Wed be happy to showcase our work. You can explore our online portfolio to view some of our best website design projects and see how weve helped businesses like yours succeed online. Visit OrganicAds portfolio for a glimpse of our high-quality web design services and how we can transform your website.",
   },
   
 ];

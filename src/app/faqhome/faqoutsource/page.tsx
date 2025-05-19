@@ -33,7 +33,7 @@ export function FaqOutsourcing() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
-  const rightFaqs = faqData.slice(midIndex);
+ // const rightFaqs = faqData.slice(midIndex);
 
   return (
     <section id="faq-section" className="py-10 gap-6 bg-white font-poppins relative">

@@ -240,16 +240,16 @@ Choose OrganicAds for affordable and effective website development and SEO solut
         Why Choose OrganicAds for Website Design & Development?
         </h3>
         <p className="mb-3 text-justify">
-        In today's competitive market, every new business needs a professional website to stand out. A well-designed website not only helps build trust but also attracts new customers. If you're looking for website design services in India, OrganicAds is the ideal solution for your business needs.
+        In todays competitive market, every new business needs a professional website to stand out. A well-designed website not only helps build trust but also attracts new customers. If you are looking for website design services in India, OrganicAds is the ideal solution for your business needs.
         </p>
         <p className="mb-3 text-justify">
-        For business owners, first impressions matter. It's essential that your website effectively showcases your products and services in the best light to gain credibility. A well-organized, visually appealing site will also help your customers find you more easily on Google.
+        For business owners, first impressions matter. Its essential that your website effectively showcases your products and services in the best light to gain credibility. A well-organized, visually appealing site will also help your customers find you more easily on Google.
         </p>
         <p className="mb-3 text-justify">
-        Launching your business online for the first time can feel overwhelming, but with OrganicAds, you're not alone. We're here to help you create a strong online presence that drives traffic and enhances your reputation.
+        Launching your business online for the first time can feel overwhelming, but with OrganicAds, you are not alone. We are here to help you create a strong online presence that drives traffic and enhances your reputation.
         </p>
         <p className="mb-3 text-justify">
-        Choose OrganicAds for website design and development that elevates your business and ensures it stands out in today's digital landscape.
+        Choose OrganicAds for website design and development that elevates your business and ensures it stands out in todays digital landscape.
         </p>
 
         

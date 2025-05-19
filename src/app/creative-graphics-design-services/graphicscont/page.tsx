@@ -10,7 +10,6 @@ import {
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
 import { TestimonialCarousel } from "@/app/testimonials/page";
-import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
@@ -65,7 +64,7 @@ const GraphicsContents = () => {
           Logo Design Services
           </h2>
           <p className="mt-4 text-gray-700">
-          In today’s fast-paced corporate world, where competition and technology are constantly evolving, having a strong brand identity is crucial. OrganicAds offers top-notch logo design services that bring your vision to life. As a leading graphic design company in Bangalore, we are equipped with the latest tools and techniques to create a logo that makes your brand stand out. Trust one of the best logo designers at OrganicAds to craft a unique and impactful logo that represents your business effectively.
+          In todays fast-paced corporate world, where competition and technology are constantly evolving, having a strong brand identity is crucial. OrganicAds offers top-notch logo design services that bring your vision to life. As a leading graphic design company in Bangalore, we are equipped with the latest tools and techniques to create a logo that makes your brand stand out. Trust one of the best logo designers at OrganicAds to craft a unique and impactful logo that represents your business effectively.
          </p>
         
         </div>
@@ -87,7 +86,7 @@ const GraphicsContents = () => {
           Motion Graphics Design
           </h2>
           <p className="mt-4 text-gray-700">
-          At OrganicAds, we bring your ideas to life with creative motion graphics design services that are bound to impress. Our expert team is dedicated to delivering high-quality motion graphics that not only meet your business needs but also elevate your brand image. With our comprehensive motion graphics services, we focus on boosting your rankings and ensuring your brand stands out in the digital landscape. Don’t wait any longer! Get in touch with us today and experience the best motion graphics design services tailored to your business.
+          At OrganicAds, we bring your ideas to life with creative motion graphics design services that are bound to impress. Our expert team is dedicated to delivering high-quality motion graphics that not only meet your business needs but also elevate your brand image. With our comprehensive motion graphics services, we focus on boosting your rankings and ensuring your brand stands out in the digital landscape. Dont wait any longer! Get in touch with us today and experience the best motion graphics design services tailored to your business.
          </p>
         </div>
 </div>
@@ -108,7 +107,7 @@ const GraphicsContents = () => {
           Vector Design Services
           </h2>
           <p className="mt-4 text-gray-700">
-          At OrganicAds, we offer exceptional vector design services that stand out in the industry. Our skilled team of graphic designers and branding experts specialize in creating stunning vector designs that are not only visually appealing but also help businesses establish a strong brand identity. With years of experience, our professionals are committed to providing high-quality vector designs that enhance your brand’s presence. Whether you're looking for logos, illustrations, or any other design, we deliver creative and effective solutions that make your brand memorable. Let OrganicAds elevate your business with our top-tier vector design services.
+          At OrganicAds, we offer exceptional vector design services that stand out in the industry. Our skilled team of graphic designers and branding experts specialize in creating stunning vector designs that are not only visually appealing but also help businesses establish a strong brand identity. With years of experience, our professionals are committed to providing high-quality vector designs that enhance your brands presence. Whether youre looking for logos, illustrations, or any other design, we deliver creative and effective solutions that make your brand memorable. Let OrganicAds elevate your business with our top-tier vector design services.
 
          </p>
         </div>
@@ -130,7 +129,7 @@ const GraphicsContents = () => {
           Infographics Design Services
           </h2>
           <p className="mt-4 text-gray-700">
-          At OrganicAds, we take pride in offering top-tier infographic design services that make a lasting impression. Our expert team is dedicated to creating visually captivating and informative infographics that effectively communicate your message. We focus on delivering glitch-free, punctual, and high-quality services that meet your unique requirements. With a passion for creativity and attention to detail, we ensure your infographics stand out and drive engagement. Choose OrganicAds for exceptional infographic design services that will elevate your brand's communication strategy and captivate your audience.
+          At OrganicAds, we take pride in offering top-tier infographic design services that make a lasting impression. Our expert team is dedicated to creating visually captivating and informative infographics that effectively communicate your message. We focus on delivering glitch-free, punctual, and high-quality services that meet your unique requirements. With a passion for creativity and attention to detail, we ensure your infographics stand out and drive engagement. Choose OrganicAds for exceptional infographic design services that will elevate your brands communication strategy and captivate your audience.
          </p>
         </div>
 </div>
@@ -173,7 +172,7 @@ const GraphicsContents = () => {
           Business Card Design
           </h2>
           <p className="mt-4 text-gray-700">
-          At OrganicAds, we create business cards with modern, innovative designs that perfectly represent your brand's identity. Our expert designers in Bangalore work to craft unique business card designs that leave a lasting impression. We offer top-notch services that focus on delivering high-quality, visually appealing cards that align with your business goals. Whether you're looking to refresh your brand or create a new look, OrganicAds is here to support you with professional business card designs that elevate your brand image and make a memorable impact.
+          At OrganicAds, we create business cards with modern, innovative designs that perfectly represent your brands identity. Our expert designers in Bangalore work to craft unique business card designs that leave a lasting impression. We offer top-notch services that focus on delivering high-quality, visually appealing cards that align with your business goals. Whether you are looking to refresh your brand or create a new look, OrganicAds is here to support you with professional business card designs that elevate your brand image and make a memorable impact.
          </p>
         </div>
 </div>
@@ -195,7 +194,7 @@ const GraphicsContents = () => {
           Brochure and Letterhead Design
           </h2>
           <p className="mt-4 text-gray-700">
-          When it comes to professional brochure and letterhead design, OrganicAds is the company you can trust. Our team offers exceptional letterhead design services, ensuring your brand’s identity is represented perfectly on every piece of correspondence. Take a look at our previous work to see the quality we deliver. As one of the top brochure design companies, we provide a full suite of services, from design to content creation. OrganicAds is your ideal partner for creating impactful brochures and letterheads that convey your message clearly and enhance your brand presence.
+          When it comes to professional brochure and letterhead design, OrganicAds is the company you can trust. Our team offers exceptional letterhead design services, ensuring your brands identity is represented perfectly on every piece of correspondence. Take a look at our previous work to see the quality we deliver. As one of the top brochure design companies, we provide a full suite of services, from design to content creation. OrganicAds is your ideal partner for creating impactful brochures and letterheads that convey your message clearly and enhance your brand presence.
          </p>
         </div>
 </div>
@@ -216,7 +215,7 @@ const GraphicsContents = () => {
           Menu Design
           </h2>
           <p className="mt-4 text-gray-700">
-          Choosing the right company for your menu design is crucial for showcasing your restaurant's offerings effectively. At OrganicAds, we focus on delivering custom menu designs that cater to your specific needs. Whether you're opening a new restaurant or revamping your existing menu, our expert designers will help you create a menu that reflects your brand and attracts customers. Contact us for a free quote on custom menu design services and let us take care of your design needs while you focus on running your business.
+          Choosing the right company for your menu design is crucial for showcasing your restaurants offerings effectively. At OrganicAds, we focus on delivering custom menu designs that cater to your specific needs. Whether you are opening a new restaurant or revamping your existing menu, our expert designers will help you create a menu that reflects your brand and attracts customers. Contact us for a free quote on custom menu design services and let us take care of your design needs while you focus on running your business.
 
          </p>
         </div>

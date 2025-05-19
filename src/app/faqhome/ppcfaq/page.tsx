@@ -13,7 +13,7 @@ const faqData = [
   {
     question: "What is PPC management services?", 
     answer:
-      "PPC management services involve overseeing and optimizing a company’s paid advertising campaigns on platforms like Google Ads. This includes everything from setting up ads to monitoring performance and refining strategies to achieve the best results. Our expert team handles all aspects of PPC, ensuring effective ad spend and maximum ROI.",
+      "PPC management services involve overseeing and optimizing a companys paid advertising campaigns on platforms like Google Ads. This includes everything from setting up ads to monitoring performance and refining strategies to achieve the best results. Our expert team handles all aspects of PPC, ensuring effective ad spend and maximum ROI.",
   },
   {
     question: "How much does pay per click cost in 2025?",
@@ -23,7 +23,7 @@ const faqData = [
   {
     question: "Why is PPC advertising a good idea for my business?",
     answer:
-      "No matter what type of business you own, effective advertising is essential. PPC services help you reach a broader audience, ensuring your business gets the visibility it deserves. By using targeted ads, you can efficiently attract potential customers, making PPC an excellent investment for increasing your brand’s reach and generating leads.",
+      "No matter what type of business you own, effective advertising is essential. PPC services help you reach a broader audience, ensuring your business gets the visibility it deserves. By using targeted ads, you can efficiently attract potential customers, making PPC an excellent investment for increasing your brands reach and generating leads.",
   },
   {
     question: "How Expensive are PPC services?",
@@ -42,7 +42,7 @@ export function PpcContentFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
-  const rightFaqs = faqData.slice(midIndex);
+ // const rightFaqs = faqData.slice(midIndex);
 
   return (
     <section id="faq-section" className="py-5 gap-6 bg-white font-poppins relative">

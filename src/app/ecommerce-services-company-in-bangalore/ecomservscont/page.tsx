@@ -9,7 +9,6 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
-import Image from "next/image";
 import FeaturedOn from "@/app/featuredon/page";
 import { TestimonialCarousel } from "@/app/testimonials/page";
 import Link from "next/link";
@@ -81,15 +80,15 @@ const EcomServicesContent = () => {
           </h2>
           <p className="mt-4 text-gray-700">
             Is your eCommerce store missing out on potential customers? Without
-            implementing SEO, you're leaving valuable traffic on the table. In
-            today's digital world, SEO is essential for eCommerce success. With
+            implementing SEO, you are leaving valuable traffic on the table. In
+            todays digital world, SEO is essential for eCommerce success. With
             more shoppers turning to online platforms, SEO is a must to ensure
             your store stands out and reaches your target audience effectively.
           </p>
           <p className="mt-4 text-gray-700">
             As a leading SEO company in India, we offer comprehensive 360°
             eCommerce SEO services tailored to businesses of all sizes. Our
-            expert team uses proven strategies to enhance your store's
+            expert team uses proven strategies to enhance your stores
             visibility and drive qualified traffic. Get in touch with us today
             to discover our SEO packages and find the best solution for your
             business growth.
@@ -186,7 +185,7 @@ const EcomServicesContent = () => {
                       As part of our eCommerce SEO services, our experts conduct
                       a thorough SEO audit to analyze and optimize your online
                       store for better search engine visibility. This audit
-                      evaluates your store's SEO performance, identifies areas
+                      evaluates your stores SEO performance, identifies areas
                       for improvement, and ensures your site is in line with the
                       latest search engine algorithm updates.
                     </p>
@@ -214,7 +213,7 @@ const EcomServicesContent = () => {
                   </CardHeader>
                   <CardContent className="text-justify">
                     <p>
-                      No matter how exceptional your products are, they won't
+                      No matter how exceptional your products are, they wont
                       reach your target audience without proper optimization.
                       Our eCommerce product optimization services ensure that
                       your products are discoverable in search engine results.
@@ -256,10 +255,10 @@ const EcomServicesContent = () => {
                       We create high-quality, SEO-optimized content that
                       attracts search engine traffic, making your store the
                       go-to destination for relevant searches. Our link-building
-                      services further enhance your store's visibility by
+                      services further enhance your stores visibility by
                       securing valuable inbound links from high-authority
                       websites. This strategy drives organic traffic and boosts
-                      your store's credibility, resulting in more customer
+                      your stores credibility, resulting in more customer
                       conversions.
                     </p>
                   </CardContent>
@@ -290,7 +289,7 @@ const EcomServicesContent = () => {
                       visitors to take the next step. With persuasive CTAs and
                       optimized landing pages, we make it easy for customers to
                       make a purchase. Additionally, we improve your eCommerce
-                      store's loading speed, ensuring seamless navigation in
+                      stores loading speed, ensuring seamless navigation in
                       under 3 seconds, so customers don't abandon their shopping
                       experience.
                     </p>
@@ -319,7 +318,7 @@ const EcomServicesContent = () => {
           Top eCommerce SEO Services in Bangalore for Shopify Stores
           </h2>
           <p className="mt-4 text-gray-700">
-          As a leading eCommerce SEO Company in Bangalore, we are committed to delivering affordable SEO services customized to your business needs. Whether you’re using Shopify to build your online store, we have the expertise to optimize and manage it for maximum success. Shopify is a popular eCommerce platform trusted by small business owners, and we’re well-equipped to help you leverage its full potential.
+          As a leading eCommerce SEO Company in Bangalore, we are committed to delivering affordable SEO services customized to your business needs. Whether youre using Shopify to build your online store, we have the expertise to optimize and manage it for maximum success. Shopify is a popular eCommerce platform trusted by small business owners, and were well-equipped to help you leverage its full potential.
           </p>
           <p className="mt-4 text-gray-700">
 We will build a scalable online store tailored to your brand and optimize your Shopify store for optimal performance. Our services include complete page optimization, enhancing titles, headers, URLs, and metadata to attract more potential customers. Additionally, we implement both internal linking to create a clear product roadmap and external link-building strategies to enhance credibility through high DA websites, boosting your store's visibility.
@@ -341,7 +340,7 @@ We will build a scalable online store tailored to your brand and optimize your S
           ECommerce SEO for WooCommerce Websites in Bangalore
           </h2>
           <p className="mt-4 text-gray-700">
-          Looking for a unique platform to build your eCommerce store? We offer specialized eCommerce SEO services for WooCommerce websites. While WooCommerce may not be as crowded as Shopify, it still hosts over a million stores, making optimization crucial to stand out. Our WooCommerce SEO services in Bangalore will help you improve your store’s visibility and ranking on search engines.
+          Looking for a unique platform to build your eCommerce store? We offer specialized eCommerce SEO services for WooCommerce websites. While WooCommerce may not be as crowded as Shopify, it still hosts over a million stores, making optimization crucial to stand out. Our WooCommerce SEO services in Bangalore will help you improve your stores visibility and ranking on search engines.
           </p>
           <p className="mt-4 text-gray-700">
           We focus on creating compelling product descriptions that resonate with both users and search engines, along with optimizing page titles for better crawlability and rankings. As a leading SEO company in Bangalore, we also implement breadcrumbs to enhance user experience, allowing visitors to easily navigate your store and return to previous pages effortlessly.

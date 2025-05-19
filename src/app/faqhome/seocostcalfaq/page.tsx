@@ -13,7 +13,7 @@ const faqData = [
   {
     question: "Does Google Charge for SEO?", 
     answer:
-      "Google does not charge any fees for organic search results. SEO focuses on improving your website’s visibility in Google’s unpaid search listings. With effective SEO, your site can achieve higher rankings, resulting in increased organic traffic over time. At OrganicAds, we help optimize your website to perform well in Google’s search results, ensuring long-term, sustainable growth without any direct cost from Google.",
+      "Google does not charge any fees for organic search results. SEO focuses on improving your websites visibility in Googles unpaid search listings. With effective SEO, your site can achieve higher rankings, resulting in increased organic traffic over time. At OrganicAds, we help optimize your website to perform well in Googles search results, ensuring long-term, sustainable growth without any direct cost from Google.",
   },
   {
     question: "How to Calculate My Monthly Profit?",
@@ -38,7 +38,7 @@ export function SeoCostCalFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
-  const rightFaqs = faqData.slice(midIndex);
+ // const rightFaqs = faqData.slice(midIndex);
 
   return (
     <section id="faq-section" className="py-5 gap-6 bg-white font-poppins relative">

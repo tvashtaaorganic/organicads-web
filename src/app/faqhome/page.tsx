@@ -64,7 +64,7 @@ const faqData = [
   {
     question: "How can I trust you will get me good SEO results?",
     answer:
-      "We understand that choosing the right SEO company in Bangalore can be challenging. That's why we encourage you to check the results we’ve delivered for our current clients. You can even speak with them directly to hear about their experience.",
+      "We understand that choosing the right SEO company in Bangalore can be challenging. That's why we encourage you to check the results we have delivered for our current clients. You can even speak with them directly to hear about their experience.",
   },
   {
     question: "What are your charges for SEO services?",
