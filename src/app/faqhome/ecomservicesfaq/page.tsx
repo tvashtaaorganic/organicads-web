@@ -44,7 +44,7 @@ const faqData = [
 ];
 
 // Function Component
-export function EcomServicesFaq1() {
+export function EcomSvrFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 2);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -107,4 +107,4 @@ export function EcomServicesFaq1() {
   );
 }
 
-export default EcomServicesFaq1;
+export default EcomSvrFaq;
