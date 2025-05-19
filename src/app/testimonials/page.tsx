@@ -55,11 +55,11 @@ const testimonials = [
   },
 ];
 
-export function TestimonialCarousel() {
+export default function TestimonialCarousel() {
   return (
     <div className="w-full max-w-[1000px] mx-auto mt-10 mb-10 py-10">
       <h2 className="text-2xl font-medium text-center mb-10 font-poppins">
-      Check whats our client say about us!
+        Check what our clients say about us!
       </h2>
 
       <Carousel opts={{ align: "center" }} className="w-full">
@@ -68,8 +68,7 @@ export function TestimonialCarousel() {
             <CarouselItem key={index} className="w-full md:basis-1/2 lg:basis-1/3">
               <div className="p-3 flex justify-center">
                 <Card className="w-[300px] h-[350px] flex flex-col justify-between items-center p-3 shadow-md border border-gray-200 rounded-lg font-poppins relative">
-                    {/* Quote Icon */}
-                  <div className="absolute top-[-10px] right-[40px] w-[65px] h-[52px] bg-contain bg-no-repeat" 
+                  <div className="absolute top-[-10px] right-[40px] w-[65px] h-[52px] bg-contain bg-no-repeat"
                        style={{ backgroundImage: "url('https://www.organicads.in/assets/img/quote-icon2.png')" }}>
                   </div>
                   <CardContent className="flex flex-col justify-center h-full relative mt-7">
@@ -85,11 +84,10 @@ export function TestimonialCarousel() {
             </CarouselItem>
           ))}
         </CarouselContent>
-       <CarouselPrevious className="absolute left-5 top-1/2 transform -translate-y-1/2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2 hover:text-white" />
-       <CarouselNext className="absolute right-5 top-1/2 transform -translate-y-1/2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2 hover:text-white" />
+        <CarouselPrevious className="absolute left-5 top-1/2 transform -translate-y-1/2 bg-primary text-white h-9 px-4 py-2 rounded-md shadow" />
+        <CarouselNext className="absolute right-5 top-1/2 transform -translate-y-1/2 bg-primary text-white h-9 px-4 py-2 rounded-md shadow" />
       </Carousel>
     </div>
   );
 }
 
-export default TestimonialCarousel;
