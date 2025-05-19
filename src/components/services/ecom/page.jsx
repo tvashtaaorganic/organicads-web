@@ -19,7 +19,7 @@ import Footer from "@/app/footer/page";
 import GoogleReview from "@/app/googlereview/page";
 import Navbar from "@/app/navigation/page";
 import FeaturedOn from "@/app/featuredon/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import TestimonialCarousel from "@/app/testimonials/page";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, CheckCheck } from "lucide-react";

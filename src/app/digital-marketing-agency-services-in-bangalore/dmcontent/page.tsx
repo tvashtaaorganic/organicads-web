@@ -11,7 +11,7 @@ import {
 } from "@/components/ui/breadcrumb";
 import { Card, CardContent } from "@/components/ui/card";
 import FeaturedOn from "@/app/featuredon/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import  TestimonialCarousel  from "@/app/testimonials/page";
 
 const DmContent = () => {
 

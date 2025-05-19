@@ -9,7 +9,7 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import TestimonialCarousel from "@/app/testimonials/page";
 import OrmContentFaq from "@/app/faqhome/ormfaq/page";
 import Image from "next/image";
 

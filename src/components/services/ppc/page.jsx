@@ -12,7 +12,6 @@ import {
 import {
   Card,
   CardContent,
-  CardDescription,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -23,7 +22,7 @@ import { Button } from "@/components/ui/button"
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import PpcContentFaq from "@/app/faqhome/ppcfaq/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import TestimonialCarousel from "@/app/testimonials/page";
 import Image from "next/image";
 
 const whyChooseData = [

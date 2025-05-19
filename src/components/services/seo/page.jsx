@@ -1,6 +1,5 @@
 "use client"; // Ensures this component is rendered client-side
 
-import * as React from "react";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -12,7 +11,7 @@ import {
 import Image from "next/image";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import FeaturedOn from "@/app/featuredon/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import TestimonialCarousel from "@/app/testimonials/page";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";

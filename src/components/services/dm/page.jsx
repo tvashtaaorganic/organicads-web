@@ -1,6 +1,5 @@
 "use client"; // Ensures this component is rendered client-side
 
-import * as React from "react";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -12,15 +11,12 @@ import {
 import {
   Card,
   CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
 } from "@/components/ui/card";
 import Footer from "@/app/footer/page";
 import GoogleReview from "@/app/googlereview/page";
 import Navbar from "@/app/navigation/page";
 import FeaturedOn from "@/app/featuredon/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import TestimonialCarousel from "@/app/testimonials/page";
 
 
 const DigitalMarketingService = ({ service }) => {

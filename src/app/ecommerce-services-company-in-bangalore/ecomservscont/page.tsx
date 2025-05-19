@@ -10,7 +10,7 @@ import {
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
 import FeaturedOn from "@/app/featuredon/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import  TestimonialCarousel from "@/app/testimonials/page";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, CheckCheck } from "lucide-react";

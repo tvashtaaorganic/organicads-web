@@ -12,14 +12,11 @@ import {
 import {
   Card,
   CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
 } from "@/components/ui/card";
 import Footer from "@/app/footer/page";
 import GoogleReview from "@/app/googlereview/page";
 import Navbar from "@/app/navigation/page";
-import { TestimonialCarousel } from "@/app/testimonials/page";
+import TestimonialCarousel from "@/app/testimonials/page";
 import OrmContentFaq from "@/app/faqhome/ormfaq/page";
 import Image from "next/image";
 
