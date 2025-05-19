@@ -9,7 +9,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel"
 
-export function HeroSlider() {
+export default function HeroSlider() {
   const slides = [
     { title: "Highly skilled SEO experts", content: "At OrganicAds, our team of experienced SEO professionals is dedicated to helping clients rank higher on Google SERPs. We optimize every aspect of your website-content, images, videos, and URLs-ensuring that search engine crawlers can easily find and index your site, resulting in improved rankings. Our proven SEO strategies are designed to drive traffic, enhance visibility, and boost your online success. With OrganicAds, you’ll achieve measurable results and gain a competitive edge in search engine rankings. " },
     { title: "ROI oriented campaigns", content: "At OrganicAds, we create campaigns that focus on delivering high ROI and driving organic traffic. Our strategies are designed to maximize returns across various online and social media platforms. We target your ideal customer demographics to ensure higher engagement and better sales results. By tailoring each campaign to your specific needs, we guarantee measurable success and long-term growth for your business. With OrganicAds, expect a significant increase in both traffic and revenue. " },
