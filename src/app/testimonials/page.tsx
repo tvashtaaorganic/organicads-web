@@ -55,7 +55,7 @@ const testimonials = [
   },
 ];
 
-export default function TestimonialCarousel() {
+export function TestimonialCarousel() {
   return (
     <div className="w-full max-w-[1000px] mx-auto mt-10 mb-10 py-10">
       <h2 className="text-2xl font-medium text-center mb-10 font-poppins">
@@ -91,3 +91,5 @@ export default function TestimonialCarousel() {
     </div>
   );
 }
+
+export default TestimonialCarousel;
