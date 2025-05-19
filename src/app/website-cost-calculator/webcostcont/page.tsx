@@ -58,7 +58,7 @@ const WebCostContents = () => {
                 easy, knowing your SEO and digital marketing needs are in the
                 hands of experts. We specialize in search engine optimization
                 (SEO), website development, and online advertising to elevate
-                your brand's online presence.
+                your brands online presence.
               </p>
               <p className="text-gray-600 text-justify">
                 When it comes to website design, a common question is, How much

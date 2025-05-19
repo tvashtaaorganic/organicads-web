@@ -255,7 +255,7 @@ Choose OrganicAds for affordable and effective website development and SEO solut
         
         <h3 className="text-2xl font-medium mb-4 mt-7 text-center"> How Much Does Website Design Cost in India? </h3>
         <p className="mb-3 text-justify">
-        The cost of website design in India varies based on several factors, such as the technology used (WordPress, PHP, React, etc.), the number of pages, animations, and graphics. Here's a general breakdown of website design prices in India with OrganicAds
+        The cost of website design in India varies based on several factors, such as the technology used (WordPress, PHP, React, etc.), the number of pages, animations, and graphics. Heres a general breakdown of website design prices in India with OrganicAds
         </p>
         <p className="mb-3 text-justify">
         A static website typically costs between Rs. 15,000 to Rs. 30,000 for websites with 5-15 pages. An e-commerce website design generally ranges from Rs. 60,000 to Rs. 1,00,000.

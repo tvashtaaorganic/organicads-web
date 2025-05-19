@@ -195,7 +195,7 @@ const EcomServicesContent = () => {
                       us uncover any issues that could impact your rankings. By
                       identifying content gaps, assessing your competition, and
                       analyzing market trends, we craft a tailored SEO strategy
-                      to improve your store's visibility, increase traffic, and
+                      to improve your stores visibility, increase traffic, and
                       drive sales.
                     </p>
                   </CardContent>
@@ -290,7 +290,7 @@ const EcomServicesContent = () => {
                       optimized landing pages, we make it easy for customers to
                       make a purchase. Additionally, we improve your eCommerce
                       stores loading speed, ensuring seamless navigation in
-                      under 3 seconds, so customers don't abandon their shopping
+                      under 3 seconds, so customers dont abandon their shopping
                       experience.
                     </p>
                   </CardContent>

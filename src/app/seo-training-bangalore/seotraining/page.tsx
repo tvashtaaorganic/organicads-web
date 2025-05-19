@@ -272,7 +272,7 @@ const SeoTraningContent = () => {
               SEO expertise, <span className="font-semibold">OrganicAds</span>{" "}
               is the best place for you. <br />
               <br />
-              If you're in Bangalore or any nearby areas,{" "}
+              If youre in Bangalore or any nearby areas,{" "}
               <span className="font-semibold">OrganicAds</span> is your trusted
               choice for top-tier SEO training. Join us today and take the first
               step towards becoming an SEO expert!
