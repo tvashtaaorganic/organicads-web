@@ -24,7 +24,7 @@ import {
   CardTitle,
   CardDescription,
 } from "@/components/ui/card";
-import EcomSeoFaq from "@/app/faqhome/ecomservicesfaq/page";
+import EcomServicesFaq1 from "@/app/faqhome/ecomservicesfaq/page";
 
 const EcomServicesContent = () => {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.5 });
@@ -416,7 +416,7 @@ We will build a scalable online store tailored to your brand and optimize your S
 
     <TestimonialCarousel />
 
-    <EcomSeoFaq />
+    <EcomServicesFaq1 />
 
     </div>
   );
