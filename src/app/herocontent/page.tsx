@@ -12,10 +12,10 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { TestimonialCarousel } from "../testimonials/page";
-import { HeroSlider } from "../herocarousel/page";
+import TestimonialCarousel from "../testimonials/page";
+import  HeroSlider  from "../herocarousel/page";
 import FeaturedOn from "../featuredon/page";
-import { FaqHome } from "../faqhome/page";
+import FaqHome  from "../faqhome/page";
 import GoogleReview from "../googlereview/page";
 
 const images = [
