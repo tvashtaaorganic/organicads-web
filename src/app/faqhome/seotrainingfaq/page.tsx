@@ -66,7 +66,7 @@ export function FaqTraning() {
         {/* Section Title */}
         <div className="text-center mb-8">
           <h3 className="text-2xl sm:text-3xl font-semibold text-gray-900">
-            SEO Training FAQ's - Have any questions?
+            SEO Training FAQs - Have any questions?
           </h3>
         </div>
 

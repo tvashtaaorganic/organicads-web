@@ -164,7 +164,7 @@ const WebDevContents = () => {
           React Website Development
           </h2>
           <p className="mt-4 text-gray-700">
-          Looking for a fast, scalable, and dynamic website for your business? OrganicAds specializes in React Website Development to create high-performing web applications tailored to your needs. React's powerful library ensures seamless performance and an interactive user experience. Our skilled developers deliver custom-built solutions, from single-page applications to complex web platforms. Enhance your online presence with responsive designs, lightning-fast load times, and cutting-edge features. Let us bring your vision to life with our expert React development services. Contact us today to build your dream website!.
+          Looking for a fast, scalable, and dynamic website for your business? OrganicAds specializes in React Website Development to create high-performing web applications tailored to your needs. Reacts powerful library ensures seamless performance and an interactive user experience. Our skilled developers deliver custom-built solutions, from single-page applications to complex web platforms. Enhance your online presence with responsive designs, lightning-fast load times, and cutting-edge features. Let us bring your vision to life with our expert React development services. Contact us today to build your dream website!.
          </p>
         </div>
 </div>

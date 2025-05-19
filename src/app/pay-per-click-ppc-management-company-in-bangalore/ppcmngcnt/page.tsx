@@ -26,7 +26,7 @@ const whyChooseData = [
     {
       img: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742979746/16704849_mngkpg.png",
       title: "Campaign Report Management",
-      desc: "Track your progress with detailed, transparent reports that help you understand what's working and guide your next steps for better results.",
+      desc: "Track your progress with detailed, transparent reports that help you understand whats working and guide your next steps for better results.",
     },
     {
       img: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742979877/5312062_mumiwj.png",
@@ -41,7 +41,7 @@ const whyChooseData = [
     {
       img: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742980417/2679763_btrhyp.png",
       title: "Increased Paid Traffic",
-      desc: "Achieving an increase in paid traffic can be challenging, but with PPC, it's done efficiently and effectively. Our team is equipped to help you drive quality paid traffic and boost your business growth.",
+      desc: "Achieving an increase in paid traffic can be challenging, but with PPC, its done efficiently and effectively. Our team is equipped to help you drive quality paid traffic and boost your business growth.",
     },
     {
       img: "https://res.cloudinary.com/djiki7tvo/image/upload/v1742980602/2875421_cvzyzt.png",
@@ -117,7 +117,7 @@ const PpcContent = () => {
 
           </h2>
           <p className="mt-4 text-gray-700">
-          Achieving quick and measurable results requires expertise, and Pay Per Click advertising is a powerful tool in any brand's marketing strategy. With the right PPC strategy, you can ensure maximum visibility and ROI. If you are looking for a skilled team to manage your campaigns, our PPC agency in Bangalore is here to help.
+          Achieving quick and measurable results requires expertise, and Pay Per Click advertising is a powerful tool in any brands marketing strategy. With the right PPC strategy, you can ensure maximum visibility and ROI. If you are looking for a skilled team to manage your campaigns, our PPC agency in Bangalore is here to help.
           </p>
           <p className="mt-4 text-gray-700">
           At OrganicAds, we serve as your local PPC experts, offering tailored campaign management to ensure you get the most from your advertising spend. From keyword targeting to ad copy creation, our team ensures that your ads drive relevant traffic, increase conversions, and help your business grow.
@@ -225,7 +225,7 @@ const PpcContent = () => {
                 </CardTitle>
               </CardHeader>
               <p className="text-gray-700 text-justify">
-              Managing a business while handling advertising can be overwhelming, but that's where we step in. With our expertise, you'll witness tangible growth and gain actionable insights through precise tracking of your Google Analytics, freeing you to focus on scaling your business effectively.
+              Managing a business while handling advertising can be overwhelming, but thats where we step in. With our expertise, you will witness tangible growth and gain actionable insights through precise tracking of your Google Analytics, freeing you to focus on scaling your business effectively.
               </p>
             </div>
           </CardContent>

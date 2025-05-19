@@ -50,7 +50,7 @@ export function SmFaqPackages() {
         {/* Section Title */}
         <div className="text-center mb-8">
           <h2 className="text-2xl sm:text-3xl font-medium text-gray-900">
-          Social Media Management FAQ's - Have any questions?
+          Social Media Management FAQs - Have any questions?
           </h2>
         </div>
 

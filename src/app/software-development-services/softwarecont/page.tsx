@@ -65,7 +65,7 @@ const SoftwareContents = () => {
           ERP Software Development
           </h2>
           <p className="mt-4 text-gray-700">
-          If you're managing an established business, an efficient Enterprise Resource Planning (ERP) system is crucial for streamlining your operations. At OrganicAds, we specialize in delivering tailored ERP software solutions that are designed to optimize business processes and enhance overall productivity. As one of the leading software development companies in Bangalore, we offer comprehensive ERP systems that fit your specific needs. Simplify your business management and elevate your operations with a custom ERP solution from OrganicAds. Contact us today to get started!
+          If you are managing an established business, an efficient Enterprise Resource Planning (ERP) system is crucial for streamlining your operations. At OrganicAds, we specialize in delivering tailored ERP software solutions that are designed to optimize business processes and enhance overall productivity. As one of the leading software development companies in Bangalore, we offer comprehensive ERP systems that fit your specific needs. Simplify your business management and elevate your operations with a custom ERP solution from OrganicAds. Contact us today to get started!
          </p>
         
         </div>

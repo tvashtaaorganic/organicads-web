@@ -107,7 +107,7 @@ const OrmRepContent = () => {
           Celebrities Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          Being in the public eye 24/7, a single mistake can tarnish a celebrity's image. Our reputation management and social media marketing services help maintain a positive online presence, ensuring effective communication with fans. Protect and enhance your image with professional online reputation management tailored for celebrities.
+          Being in the public eye 24/7, a single mistake can tarnish a celebritys image. Our reputation management and social media marketing services help maintain a positive online presence, ensuring effective communication with fans. Protect and enhance your image with professional online reputation management tailored for celebrities.
          </p>
         </div>
 </div>
@@ -129,7 +129,7 @@ const OrmRepContent = () => {
           Hotel Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          Hotel reputation management is essential in today's competitive market. Its not just about marketing, but about building trust with customers. With the rise of social media, consumers are more discerning than ever. Our hotel reputation management services ensure that your brand stands out positively, helping you maintain strong relationships with stakeholders and guests alike.
+          Hotel reputation management is essential in todays competitive market. Its not just about marketing, but about building trust with customers. With the rise of social media, consumers are more discerning than ever. Our hotel reputation management services ensure that your brand stands out positively, helping you maintain strong relationships with stakeholders and guests alike.
          </p>
         </div>
 </div>
@@ -151,7 +151,7 @@ const OrmRepContent = () => {
           Hospital Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          Hospitals need strong online reputation management to build trust and credibility with patients. As one of the top SEO companies in India, OrganicAds helps enhance your hospital's image by managing online reviews and feedback. Our expert services ensure your hospital is viewed as reliable, trustworthy, and committed to providing excellent care, attracting more patients to your services.
+          Hospitals need strong online reputation management to build trust and credibility with patients. As one of the top SEO companies in India, OrganicAds helps enhance your hospitals image by managing online reviews and feedback. Our expert services ensure your hospital is viewed as reliable, trustworthy, and committed to providing excellent care, attracting more patients to your services.
          </p>
         </div>
 </div>
@@ -173,7 +173,7 @@ const OrmRepContent = () => {
           Restaurant Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          Effective restaurant reputation management is key to maintaining a steady flow of customers. OrganicAds offers expert online reputation management services to help you attract more guests by enhancing your restaurant's online presence. Our services ensure that your restaurant's reputation remains positive and appealing, driving more traffic and keeping your tables full.
+          Effective restaurant reputation management is key to maintaining a steady flow of customers. OrganicAds offers expert online reputation management services to help you attract more guests by enhancing your restaurants online presence. Our services ensure that your restaurants reputation remains positive and appealing, driving more traffic and keeping your tables full.
          </p>
         </div>
 </div>
@@ -217,7 +217,7 @@ const OrmRepContent = () => {
           Lawyer Reputation Management
           </h2>
           <p className="mt-4 text-gray-700">
-          In the legal profession, your reputation is everything. Potential clients want to know that you are trustworthy and capable. Lawyer Reputation Management services help you maintain a positive online image, manage client reviews, and ensure that you stand out from competitors. With a strong reputation, you'll attract more clients and build lasting trust in your services.
+          In the legal profession, your reputation is everything. Potential clients want to know that you are trustworthy and capable. Lawyer Reputation Management services help you maintain a positive online image, manage client reviews, and ensure that you stand out from competitors. With a strong reputation, you will attract more clients and build lasting trust in your services.
          </p>
         </div>
 </div>

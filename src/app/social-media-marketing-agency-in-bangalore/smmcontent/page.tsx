@@ -47,14 +47,14 @@ const SmmContent = () => {
             alt: "LinkedIn Marketing Services",
             title: "LinkedIn Marketing Services",
             description:
-              "Maximize your professional reach with our LinkedIn Marketing services. LinkedIn is more than just a networking platform; it's a powerful tool to attract potential clients, partners, and employees. Our expert team will manage your LinkedIn page, creating compelling content and strategies that engage key stakeholders and top talent. Whether you're looking to build your brand's professional presence or connect with industry leaders, we tailor our services to meet your goals. Get in touch with us today and unlock the full potential of LinkedIn for your business!",
+              "Maximize your professional reach with our LinkedIn Marketing services. LinkedIn is more than just a networking platform; its a powerful tool to attract potential clients, partners, and employees. Our expert team will manage your LinkedIn page, creating compelling content and strategies that engage key stakeholders and top talent. Whether you are looking to build your brands professional presence or connect with industry leaders, we tailor our services to meet your goals. Get in touch with us today and unlock the full potential of LinkedIn for your business!",
           },
           {
             img: "https://res.cloudinary.com/s2ucdn/image/upload/v1735058895/youtube_bgjezp.png",
             alt: "YouTube Marketing Services",
             title: "YouTube Marketing Services",
             description:
-              "Unlock the power of video with our YouTube Marketing services! As video content continues to dominate online engagement, YouTube offers a creative and effective way to reach your audience. Our expert team specializes in video optimization, ensuring your content ranks higher, reaches the right audience, and engages viewers more effectively. Whether you're looking to grow your channel or drive targeted traffic to your brand, we handle the marketing so you can focus on creating great content. Have a YouTube channel? Let us take care of your YouTube marketing and help you grow your brand faster!",
+              "Unlock the power of video with our YouTube Marketing services! As video content continues to dominate online engagement, YouTube offers a creative and effective way to reach your audience. Our expert team specializes in video optimization, ensuring your content ranks higher, reaches the right audience, and engages viewers more effectively. Whether you are looking to grow your channel or drive targeted traffic to your brand, we handle the marketing so you can focus on creating great content. Have a YouTube channel? Let us take care of your YouTube marketing and help you grow your brand faster!",
           },
       ];
 
@@ -136,7 +136,7 @@ const SmmContent = () => {
           We Are the Best Social Media Marketing Company in Bangalore
           </h2>
           <p className="mt-4 text-gray-700">
-          Building a brand takes time and effort, and it's not something that happens overnight. The journey to brand recognition requires experts who understand the intricacies of social media marketing. If you're looking for an experienced team to help you grow, a Social Media Marketing agency in Bangalore can support you in achieving your goals.
+          Building a brand takes time and effort, and its not something that happens overnight. The journey to brand recognition requires experts who understand the intricacies of social media marketing. If you are looking for an experienced team to help you grow, a Social Media Marketing agency in Bangalore can support you in achieving your goals.
           </p>
           <p className="mt-4 text-gray-700">
           Regardless of your location, OrganicAds functions as your local social media agency. We specialize in curating and executing impactful brand campaigns and contests, helping you increase brand awareness. Our team will assist you in launching, growing, and continuously scaling your online presence.

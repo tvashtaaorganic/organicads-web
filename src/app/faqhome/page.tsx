@@ -39,7 +39,7 @@ const faqData = [
   {
     question: "What is Search Engine Optimization (SEO)?",
     answer:
-      "Search Engine Optimization (SEO) is a strategic process designed to improve your website's visibility on search engines. It involves optimizing various elements, such as keywords, content, site structure, and backlinks, to enhance your website's ranking.",
+      "Search Engine Optimization (SEO) is a strategic process designed to improve your websites visibility on search engines. It involves optimizing various elements, such as keywords, content, site structure, and backlinks, to enhance your websites ranking.",
   },
   {
     question: "What makes OrganicAds a leading SEO Agency?",
@@ -54,7 +54,7 @@ const faqData = [
   {
     question: "How can I check monthly SEO progress?",
     answer:
-      "With our Stay Transparent policy, we keep you informed every step of the way. Each month, we provide detailed SEO reports that include your website's ranking progress, organic traffic insights, and updates on both on-page and off-page activities.",
+      "With our Stay Transparent policy, we keep you informed every step of the way. Each month, we provide detailed SEO reports that include your websites ranking progress, organic traffic insights, and updates on both on-page and off-page activities.",
   },
   {
     question: "How long does keyword take to rank?",
@@ -64,7 +64,7 @@ const faqData = [
   {
     question: "How can I trust you will get me good SEO results?",
     answer:
-      "We understand that choosing the right SEO company in Bangalore can be challenging. That's why we encourage you to check the results we have delivered for our current clients. You can even speak with them directly to hear about their experience.",
+      "We understand that choosing the right SEO company in Bangalore can be challenging. Thats why we encourage you to check the results we have delivered for our current clients. You can even speak with them directly to hear about their experience.",
   },
   {
     question: "What are your charges for SEO services?",
@@ -74,7 +74,7 @@ const faqData = [
   {
     question: "Is SEO service better than paid advertising?",
     answer:
-      "SEO is a long-term strategy that focuses on improving your website's visibility in organic search results. Paid advertising delivers immediate results but requires ongoing investment. The best approach often involves combining both strategies.",
+      "SEO is a long-term strategy that focuses on improving your websites visibility in organic search results. Paid advertising delivers immediate results but requires ongoing investment. The best approach often involves combining both strategies.",
   },
 ];
 
@@ -91,7 +91,7 @@ export function FaqHome() {
         {/* Section Title */}
         <div className="text-center mb-8">
           <h2 className="text-2xl sm:text-3xl font-medium text-gray-900">
-            SEO Bangalore FAQ's - Have any questions?
+            SEO Bangalore FAQs - Have any questions?
           </h2>
         </div>
 

@@ -18,6 +18,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import SeoServicesFaq from "@/app/faqhome/seoservicesfaq/page";
 
+
 const seoResults = [
   {
     website: "Skin Clinic Sydney",
@@ -250,11 +251,13 @@ const seoProcessSteps = [
 
         {/* CTA Button */}
         <div className="text-center mt-8">
-          <Button asChild className="rounded-lg inline-flex justify-center items-center text-sm font-semibold py-3 px-4 bg-slate-900 text-white hover:bg-slate-700 pointer-events-auto">
-            <a href="/seo-results-from-organic-ads">
-              View All SEO Results <ArrowRight />
-            </a>
-          </Button>
+          
+<Button asChild className="rounded-lg inline-flex justify-center items-center text-sm font-semibold py-3 px-4 bg-slate-900 text-white hover:bg-slate-700 pointer-events-auto">
+  <Link href="/seo-results-from-organic-ads">
+    View All SEO Results <ArrowRight />
+  </Link>
+</Button>
+
         </div>
       </div>
 </section>

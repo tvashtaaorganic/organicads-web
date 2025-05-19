@@ -107,11 +107,11 @@ const WebPackagesContent = () => {
 
       const [isExpanded, setIsExpanded] = useState(false);
 
-      const text = `You might have found us by searching for "web design packages in Bangalore" or "Website Development Packages Bangalore" and landed on our page as the first result on Google. It's not magic—it's the result of fifteen years of experience in search engine optimization and website design! Let us help make your company as visible as ours.
+      const text = `You might have found us by searching for web design packages in Bangalore or Website Development Packages Bangalore and landed on our page as the first result on Google. Its not magic its the result of fifteen years of experience in search engine optimization and website design! Let us help make your company as visible as ours.
 
 At OrganicAds, we specialize in providing affordable web design packages for SMEs, start-ups, entrepreneurs, and businesses of all sizes across India. Our offerings include WordPress websites for small businesses, e-commerce solutions, and website makeover packages to help expand your business online.
 
-Our website design packages are designed to equip your business with all the tools needed to attract more local customers and increase your online presence. Whether you're looking for a simple website design or a full-scale SEO-friendly website to boost your rankings, OrganicAds has a tailored solution for you.
+Our website design packages are designed to equip your business with all the tools needed to attract more local customers and increase your online presence. Whether you are looking for a simple website design or a full-scale SEO-friendly website to boost your rankings, OrganicAds has a tailored solution for you.
 
 Choose OrganicAds for affordable and effective website development and SEO solutions that help your business grow and succeed online.`;
     
@@ -261,7 +261,7 @@ Choose OrganicAds for affordable and effective website development and SEO solut
         A static website typically costs between Rs. 15,000 to Rs. 30,000 for websites with 5-15 pages. An e-commerce website design generally ranges from Rs. 60,000 to Rs. 1,00,000.
         </p>
         <p className="mb-3 text-justify">
-        At OrganicAds, we understand that each client has specific needs and budget constraints when it comes to website design. We assure you that we provide cost-effective website solutions that deliver excellent value for money. With our website design packages, you won't need to spend a fortune to create a fully functional, professional website.
+        At OrganicAds, we understand that each client has specific needs and budget constraints when it comes to website design. We assure you that we provide cost-effective website solutions that deliver excellent value for money. With our website design packages, you wont need to spend a fortune to create a fully functional, professional website.
         </p>
         <p className="mb-3 text-justify">
         From arranging hosting to launching your site and submitting it to search engines, OrganicAds handles every aspect of your website design and development.

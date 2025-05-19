@@ -158,7 +158,7 @@ const WebCostContents = () => {
                 why OrganicAds offers affordable website design solutions
                 tailored to meet your needs. With our extensive experience
                 across various industries, we can create a customized website
-                that perfectly aligns with your company's goals and branding.
+                that perfectly aligns with your companys goals and branding.
               </p>
               <p className="text-gray-700 mb-4 text-justify">
                 The cost of a small business website depends on its scope and

@@ -142,7 +142,7 @@ const WebDesignContent = () => {
           Responsive Web Design
           </h2>
           <p className="mt-4 text-white">
-          Ensure your website looks stunning on all major devices. At OrganicAds, we specialize in responsive website design for laptops, smartphones, and tablets. Understanding that most users today access the internet via mobile, we follow a mobile-first approach to deliver visually appealing and functional responsive designs. Whether it's a smartphone or desktop, we ensure your website delivers an exceptional user experience across all devices.
+          Ensure your website looks stunning on all major devices. At OrganicAds, we specialize in responsive website design for laptops, smartphones, and tablets. Understanding that most users today access the internet via mobile, we follow a mobile-first approach to deliver visually appealing and functional responsive designs. Whether its a smartphone or desktop, we ensure your website delivers an exceptional user experience across all devices.
          </p>
         </div>
 </div>

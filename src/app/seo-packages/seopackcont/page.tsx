@@ -276,7 +276,7 @@ const SeoPackagesContent = () => {
         At OrganicAds, we bridge the gap by providing affordable and result-oriented SEO services. With our focus on delivering measurable outcomes, you can achieve higher rankings, increased traffic, and better ROI without overspending. Choose OrganicAds for SEO services in Bangalore that make a real difference!
         </p>
         
-        <h3 className="text-2xl font-medium mb-4 text-left">Why You are Failing at "Is SEO Cheap?"</h3>
+        <h3 className="text-2xl font-medium mb-4 text-left">Why You are Failing at Is SEO Cheap?</h3>
         <p className="mb-3 text-justify">
         SEO is a dynamic and evolving process that requires consistent effort and expertise from multiple professionals, including content writers, SEO specialists, and SEO analysts.
         </p>
@@ -312,7 +312,7 @@ const SeoPackagesContent = () => {
         Some providers offer low-cost SEO services, such as INR 25,000 per year, but the lack of measurable results can be disastrous, especially for small businesses. Poor SEO not only wastes your investment but can also cause long-term damage, such as ranking penalties that require significant time and money to fix.
         </p>
         <p className="mb-3 text-justify">
-        At OrganicAds, we prioritize ethical, result-driven strategies that ensure sustainable growth. Investing in quality SEO services is essential for protecting your business and achieving long-term success. Avoid "cheap" SEO solutions—they might cost less initially, but the damage they cause can be far more expensive.
+        At OrganicAds, we prioritize ethical, result-driven strategies that ensure sustainable growth. Investing in quality SEO services is essential for protecting your business and achieving long-term success. Avoid cheap SEO solutions—they might cost less initially, but the damage they cause can be far more expensive.
         </p>
         <h3 className="text-2xl font-medium mb-4 text-left">Things to Keep in Mind</h3>
         <p className="mb-3 text-justify">

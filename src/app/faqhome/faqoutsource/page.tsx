@@ -41,7 +41,7 @@ export function FaqOutsourcing() {
         {/* Section Title */}
         <div className="text-center mb-8">
           <h2 className="text-2xl sm:text-3xl font-medium text-gray-900">
-            SEO Outsourcing FAQ's - Have any questions?
+            SEO Outsourcing FAQs - Have any questions?
           </h2>
         </div>
 

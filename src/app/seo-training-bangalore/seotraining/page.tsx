@@ -268,7 +268,7 @@ const SeoTraningContent = () => {
               engaging, making you ready to take on various SEO-related tasks
               such as pay-per-click advertising, social media marketing, content
               optimization, and more. We provide both basic and advanced SEO
-              training, so whether you're a beginner or looking to deepen your
+              training, so whether you are a beginner or looking to deepen your
               SEO expertise, <span className="font-semibold">OrganicAds</span>{" "}
               is the best place for you. <br />
               <br />

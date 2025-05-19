@@ -59,7 +59,7 @@ export function TestimonialCarousel() {
   return (
     <div className="w-full max-w-[1000px] mx-auto mt-10 mb-10 py-10">
       <h2 className="text-2xl font-medium text-center mb-10 font-poppins">
-      Check what's our client say about us!
+      Check whats our client say about us!
       </h2>
 
       <Carousel opts={{ align: "center" }} className="w-full">

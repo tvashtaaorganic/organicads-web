@@ -43,7 +43,7 @@ const seoCards = [
   {
     title: "E-commerce SEO",
     description:
-      "Eliminate hidden product pages, maximize your online store's potential, and welcome greater visibility, improved rankings, and highly targeted traffic.",
+      "Eliminate hidden product pages, maximize your online stores potential, and welcome greater visibility, improved rankings, and highly targeted traffic.",
     image: "https://lh3.googleusercontent.com/pw/AP1GczNfI9xfWahiZNB8dyoO27oIJzh9k7Kd-Iq469ONAjWnkbwOs-parlxDJXbOXNQiWNIxGLDCzSXRRwRgeodjASvoADMgO8no9bvcM1aAiPRLbD9ZDtXPiXyWC0wBvsIGQUw8ee-nY1YFkeUmb9dH7fHJ=w92-h92-s-no-gm?authuser=0",
   },
   {
@@ -79,7 +79,7 @@ const seoCards = [
   {
     title: "SEO Latest Updates",
     description:
-      "Google Search Console's performance report now retains filters and includes a convenient 'reset' button for easy adjustments.",
+      "Google Search Consoles performance report now retains filters and includes a convenient reset button for easy adjustments.",
     image: "https://lh3.googleusercontent.com/pw/AP1GczNeiEdqiI0RhUa90nrOwE7NK2Z8SJSK-FEOpw_v6N9VrKetPTVO0cHBar_m-RbQFuGVLQ2XK2yS9mCBzdXAeJoaSJt-lgEA11aB8L5rN8G1RntNCoyCHySRd5TDXshDS3jYW--jHZ2oKgMs6EuQ9Ait=w512-h512-s-no-gm?authuser=0",
   },
 ];
@@ -93,7 +93,7 @@ const seoSections = [
   {
     image: "https://res.cloudinary.com/s2ucdn/image/upload/v1704461205/banner1_qudrg9.png",
     title: "Boost Your Sales with SEO Strategies That Drive Converting Leads",
-    description: "At OrganicAds, we understand the true value of SEO and its ability to generate leads that convert into sales. With years of experience and proven success, we know what works. We specialize in creating high-performance websites, building strong digital media presences, and running impactful Google campaigns to bring your business more leads. Every SEO strategy we create is custom-built, ensuring it's unique to your brand and tailored to your goals. We never duplicate strategies across clients, guaranteeing that your business stands out and thrives with our tailored SEO solutions. Let us help you turn clicks into customers with results-driven SEO!"
+    description: "At OrganicAds, we understand the true value of SEO and its ability to generate leads that convert into sales. With years of experience and proven success, we know what works. We specialize in creating high-performance websites, building strong digital media presences, and running impactful Google campaigns to bring your business more leads. Every SEO strategy we create is custom-built, ensuring its unique to your brand and tailored to your goals. We never duplicate strategies across clients, guaranteeing that your business stands out and thrives with our tailored SEO solutions. Let us help you turn clicks into customers with results-driven SEO!"
   },
   {
     image: "https://res.cloudinary.com/s2ucdn/image/upload/v1704461206/banner3_jcp0x1.png",
@@ -247,7 +247,7 @@ function HeroContent() {
             Is your brand new or struggling with declining sales? Our SEO agency in Bangalore might be just what you need. Partner with the Best SEO Company in Bangalore and see how we can help you grow. We understand what it takes to boost your online presence and achieve success.
           </p>
           <p className="mt-4 text-gray-700">
-            Since 2016, we've been empowering both new and established businesses by increasing their visibility, driving more traffic, and improving sales. What started as an SEO agency in Bangalore has now expanded globally, helping brands from the UK, USA, Australia, Netherlands, Canada, Morocco, and many other countries.
+            Since 2016, we have been empowering both new and established businesses by increasing their visibility, driving more traffic, and improving sales. What started as an SEO agency in Bangalore has now expanded globally, helping brands from the UK, USA, Australia, Netherlands, Canada, Morocco, and many other countries.
           </p>
           <p className="mt-4 text-gray-700">
             We offer specialized SEO services, social media marketing, website design, development, and digital marketing solutions. Our strategies are rooted in ethical practices and transparency. With us, you wont be tied down by restrictive SEO contracts-just trust and results.

@@ -150,7 +150,7 @@ const EcomServicesContent = () => {
                   </CardHeader>
                   <CardContent className="text-justify">
                     <p>
-                      The right keywords are crucial for your eCommerce store's
+                      The right keywords are crucial for your eCommerce stores
                       success. They help your potential customers find you in a
                       sea of competitors. As a top eCommerce SEO company in
                       India, we use advanced keyword research tools to identify
@@ -321,7 +321,7 @@ const EcomServicesContent = () => {
           As a leading eCommerce SEO Company in Bangalore, we are committed to delivering affordable SEO services customized to your business needs. Whether youre using Shopify to build your online store, we have the expertise to optimize and manage it for maximum success. Shopify is a popular eCommerce platform trusted by small business owners, and were well-equipped to help you leverage its full potential.
           </p>
           <p className="mt-4 text-gray-700">
-We will build a scalable online store tailored to your brand and optimize your Shopify store for optimal performance. Our services include complete page optimization, enhancing titles, headers, URLs, and metadata to attract more potential customers. Additionally, we implement both internal linking to create a clear product roadmap and external link-building strategies to enhance credibility through high DA websites, boosting your store's visibility.
+We will build a scalable online store tailored to your brand and optimize your Shopify store for optimal performance. Our services include complete page optimization, enhancing titles, headers, URLs, and metadata to attract more potential customers. Additionally, we implement both internal linking to create a clear product roadmap and external link-building strategies to enhance credibility through high DA websites, boosting your stores visibility.
           </p>
 
           <Link href="/get-quote" passHref>
@@ -346,7 +346,7 @@ We will build a scalable online store tailored to your brand and optimize your S
           We focus on creating compelling product descriptions that resonate with both users and search engines, along with optimizing page titles for better crawlability and rankings. As a leading SEO company in Bangalore, we also implement breadcrumbs to enhance user experience, allowing visitors to easily navigate your store and return to previous pages effortlessly.
           </p>
           <p className="mt-4 text-gray-700">
-          Furthermore, we ensure that permalink URLs are concise and descriptive, making your store easily accessible to both visitors and search engines. Our WooCommerce SEO strategies are designed to improve site navigation, enhance user experience, and increase your store's chances of ranking higher, ultimately driving more sales and conversions.
+          Furthermore, we ensure that permalink URLs are concise and descriptive, making your store easily accessible to both visitors and search engines. Our WooCommerce SEO strategies are designed to improve site navigation, enhance user experience, and increase your stores chances of ranking higher, ultimately driving more sales and conversions.
           </p>
 
           <Link href="/get-quote" passHref>

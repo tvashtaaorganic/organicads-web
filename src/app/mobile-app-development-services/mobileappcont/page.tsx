@@ -98,7 +98,7 @@ const MobileAppContents = () => {
           Android App Development Services
           </h2>
           <p className="mt-4 text-gray-700">
-          Ready to build your first Android app? At OrganicAds, our skilled professionals and software engineers bring years of experience in developing user-friendly, high-performance Android apps. We specialize in delivering tailored solutions for both small and large businesses, offering top-notch Android app development services. Whether you are looking to create a business app or need a custom Android solution, we are here to help. If you're searching for a reliable Android app development company in Bangalore, look no further. Contact us today for a free quote and get started on your app development journey!
+          Ready to build your first Android app? At OrganicAds, our skilled professionals and software engineers bring years of experience in developing user-friendly, high-performance Android apps. We specialize in delivering tailored solutions for both small and large businesses, offering top-notch Android app development services. Whether you are looking to create a business app or need a custom Android solution, we are here to help. If you are searching for a reliable Android app development company in Bangalore, look no further. Contact us today for a free quote and get started on your app development journey!
          </p>
         
         </div>
@@ -120,7 +120,7 @@ const MobileAppContents = () => {
           iPhone App Development Services
           </h2>
           <p className="mt-4 text-gray-700">
-          Looking to build an iOS app for your customer base? Your search ends here! OrganicAds is a trusted name for iPhone app development in Bangalore. We specialize in creating innovative iPhone apps tailored to your business needs. Our team uses the latest technologies to develop intelligent business solutions that ensure seamless user experiences. At OrganicAds, we prioritize delivering everything you need to take your business to the next level. If you're looking for professional iPhone app development services, get in touch with us today for a free quote!.
+          Looking to build an iOS app for your customer base? Your search ends here! OrganicAds is a trusted name for iPhone app development in Bangalore. We specialize in creating innovative iPhone apps tailored to your business needs. Our team uses the latest technologies to develop intelligent business solutions that ensure seamless user experiences. At OrganicAds, we prioritize delivering everything you need to take your business to the next level. If you are looking for professional iPhone app development services, get in touch with us today for a free quote!.
          </p>
         </div>
 </div>
