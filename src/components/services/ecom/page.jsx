@@ -1,6 +1,5 @@
 "use client"; // Ensures this component is rendered client-side
 
-import * as React from "react";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -27,7 +26,7 @@ import { ArrowRight, CheckCheck } from "lucide-react";
 import CountUp from "react-countup";
 import { useInView } from "react-intersection-observer";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-
+import EcomServicesFaq1 from "@/app/faqhome/ecomservicesfaq/page";
 
 
 const EcomService = ({ service }) => {
@@ -455,6 +454,7 @@ We will build a scalable online store tailored to your brand and optimize your S
 
 <TestimonialCarousel />
 
+<EcomServicesFaq1 />
 
 
       <GoogleReview />

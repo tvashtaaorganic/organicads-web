@@ -33,7 +33,7 @@ const faqData = [
 ];
 
 // Function Component
-export function OrmContentFaq() {
+export default function OrmContentFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -77,4 +77,4 @@ export function OrmContentFaq() {
   );
 }
 
-export default OrmContentFaq;
+// export default OrmContentFaq;

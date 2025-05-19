@@ -59,7 +59,7 @@ const faqData = [
 ];
 
 // Function Component
-export function SeoServicesFaq() {
+export default function SeoServicesFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 2);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -122,4 +122,4 @@ export function SeoServicesFaq() {
   );
 }
 
-export default SeoServicesFaq;
+//export default SeoServicesFaq;

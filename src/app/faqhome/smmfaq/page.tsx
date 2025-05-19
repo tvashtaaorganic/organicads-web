@@ -38,7 +38,7 @@ const faqData = [
 ];
 
 // Function Component
-export function SmmContentFaq() {
+export default function SmmContentFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -82,4 +82,4 @@ export function SmmContentFaq() {
   );
 }
 
-export default SmmContentFaq;
+//export default SmmContentFaq;

@@ -54,7 +54,7 @@ const faqData = [
 ];
 
 // Function Component
-export function WebDevFaq() {
+export default function WebDevFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 2);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -117,4 +117,4 @@ export function WebDevFaq() {
   );
 }
 
-export default WebDevFaq;
+//export default WebDevFaq;

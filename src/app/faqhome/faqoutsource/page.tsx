@@ -28,8 +28,8 @@ const faqData = [
   
 ];
 
-// Function Component
-export function FaqOutsourcing() {
+// ✅ Default export directly as function
+export default function FaqOutsourcing() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -74,4 +74,4 @@ export function FaqOutsourcing() {
   );
 }
 
-export default FaqOutsourcing;
+// export default FaqOutsourcing;

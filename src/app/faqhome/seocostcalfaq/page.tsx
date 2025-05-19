@@ -34,7 +34,7 @@ const faqData = [
 ];
 
 // Function Component
-export function SeoCostCalFaq() {
+export default function SeoCostCalFaq() {
   // Split FAQs into two equal parts for grid layout
   const midIndex = Math.ceil(faqData.length / 1);
   const leftFaqs = faqData.slice(0, midIndex);
@@ -79,4 +79,4 @@ export function SeoCostCalFaq() {
   );
 }
 
-export default SeoCostCalFaq;
+// export default SeoCostCalFaq;
