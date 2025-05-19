@@ -25,7 +25,7 @@ enum ActionTypes {
   REMOVE_TOAST = "REMOVE_TOAST",
 }
 
-type ActionType = typeof ActionTypes
+// type ActionType = typeof ActionTypes
 
 type Action =
   | {
