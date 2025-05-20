@@ -1,7 +1,21 @@
 import { notFound } from "next/navigation";
 
+// ✅ Define the API response shape
+interface PageData {
+  titletag: string;
+  descriptiontag: string;
+  servicename: string;
+  [key: string]: unknown; // Allow additional fields for flexibility
+}
+
+// ✅ Define page props for dynamic route
+interface PageProps {
+  params: { slug: string };
+  searchParams?: { [key: string]: string | string[] | undefined };
+}
+
 // ✅ Fetch SEO data from the database
-async function fetchPageData(slug: string): Promise<any | null> {
+async function fetchPageData(slug: string): Promise<PageData | null> {
   const res = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL}/api/pages/${slug}`, {
     cache: "force-cache",
   });
@@ -11,7 +25,7 @@ async function fetchPageData(slug: string): Promise<any | null> {
 }
 
 // ✅ Generate Dynamic Metadata
-export async function generateMetadata({ params }: { params: { slug: string } }) {
+export async function generateMetadata({ params }: PageProps) {
   // Validate params as a whole to avoid sync access to properties
   if (!params || Object.keys(params).length === 0) {
     console.error("Missing or empty params in generateMetadata");
@@ -38,7 +52,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 }
 
 // ✅ Page Component (Server Component)
-export default async function Page({ params }: { params: { slug: string } }) {
+export default async function Page({ params }: PageProps) {
   if (!params || typeof params.slug === "undefined") {
     console.error("Missing params or slug");
     return notFound();
