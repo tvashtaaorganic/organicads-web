@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 
 // ✅ Fetch SEO data from the database
-async function fetchPageData(slug) {
+async function fetchPageData(slug: string): Promise<any | null> {
   const res = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL}/api/pages/${slug}`, {
     cache: "force-cache",
   });
@@ -11,7 +11,7 @@ async function fetchPageData(slug) {
 }
 
 // ✅ Generate Dynamic Metadata
-export async function generateMetadata({ params }) {
+export async function generateMetadata({ params }: { params: { slug: string } }) {
   // Validate params as a whole to avoid sync access to properties
   if (!params || Object.keys(params).length === 0) {
     console.error("Missing or empty params in generateMetadata");
@@ -38,8 +38,8 @@ export async function generateMetadata({ params }) {
 }
 
 // ✅ Page Component (Server Component)
-export default async function Page({ params }) {
-  if (!params || typeof params.slug === 'undefined') {
+export default async function Page({ params }: { params: { slug: string } }) {
+  if (!params || typeof params.slug === "undefined") {
     console.error("Missing params or slug");
     return notFound();
   }

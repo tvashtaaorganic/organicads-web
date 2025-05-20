@@ -59,10 +59,10 @@ const navItems = [
 ];
 
 export default function Navbar() {
-  const [openDropdown, setOpenDropdown] = useState(null);
+  const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  const toggleDropdown = (name) => {
+  const toggleDropdown = (name: string) => {
     setOpenDropdown(openDropdown === name ? null : name);
   };
 
@@ -89,7 +89,12 @@ export default function Navbar() {
                     onClick={() => toggleDropdown(item.name)}
                     className="px-4 py-2 font-medium hover:text-blue-600 focus:outline-none flex items-center"
                   >
-                    {item.name} {openDropdown === item.name ? <ChevronUp size={16} className="ml-2" /> : <ChevronDown size={16} className="ml-2" />}
+                    {item.name}{' '}
+                    {openDropdown === item.name ? (
+                      <ChevronUp size={16} className="ml-2" />
+                    ) : (
+                      <ChevronDown size={16} className="ml-2" />
+                    )}
                   </button>
                   {openDropdown === item.name && (
                     <div className="absolute left-1/2 transform -translate-x-1/2 top-full mt-2 w-60 bg-white shadow-lg rounded-md overflow-hidden z-50 text-center transition-all duration-300 ease-in-out opacity-100">
@@ -133,16 +138,22 @@ export default function Navbar() {
         </button>
       </div>
 
-             {/* Sidebar Menu with Smooth Transition */}
+      {/* Sidebar Menu with Smooth Transition */}
       <div
-        className={`fixed inset-0 bg-black bg-opacity-50 z-50 transition-opacity duration-300 ease-in-out ${sidebarOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
+        className={`fixed inset-0 bg-black bg-opacity-50 z-50 transition-opacity duration-300 ease-in-out ${
+          sidebarOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
+        }`}
         onClick={() => setSidebarOpen(false)}
       >
         <div
-          className={`fixed top-0 left-0 w-64 h-full bg-white shadow-lg p-6 flex flex-col space-y-6 transition-transform duration-300 ease-in-out ${sidebarOpen ? 'translate-x-0' : '-translate-x-full'}`}
+          className={`fixed top-0 left-0 w-64 h-full bg-white shadow-lg p-6 flex flex-col space-y-6 transition-transform duration-300 ease-in-out ${
+            sidebarOpen ? 'translate-x-0' : '-translate-x-full'
+          }`}
           onClick={(e) => e.stopPropagation()}
         >
-          <button className="self-end text-xl" onClick={() => setSidebarOpen(false)}>✕</button>
+          <button className="self-end text-xl" onClick={() => setSidebarOpen(false)}>
+            ✕
+          </button>
           <div className="flex-1 overflow-y-auto space-y-4">
             {navItems.map((item, index) => (
               <div key={index} className="relative">
@@ -152,7 +163,12 @@ export default function Navbar() {
                       onClick={() => toggleDropdown(item.name)}
                       className="w-full text-left px-4 py-2 font-medium hover:text-blue-600 focus:outline-none flex items-center justify-between"
                     >
-                      {item.name} {openDropdown === item.name ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+                      {item.name}{' '}
+                      {openDropdown === item.name ? (
+                        <ChevronUp size={16} />
+                      ) : (
+                        <ChevronDown size={16} />
+                      )}
                     </button>
                     {openDropdown === item.name && (
                       <div className="pl-6 mt-2 space-y-2">
@@ -161,7 +177,10 @@ export default function Navbar() {
                             key={subIndex}
                             href={subItem.href}
                             className="block px-4 py-2 text-sm hover:bg-gray-100"
-                            onClick={() => { setOpenDropdown(null); setSidebarOpen(false); }}
+                            onClick={() => {
+                              setOpenDropdown(null);
+                              setSidebarOpen(false);
+                            }}
                           >
                             {subItem.name}
                           </Link>
@@ -189,7 +208,6 @@ export default function Navbar() {
           </Link>
         </div>
       </div>
-
     </nav>
   );
 }
